@@ -1,0 +1,5 @@
+tags:: #log/journal 
+
+
+# {{title}}
+

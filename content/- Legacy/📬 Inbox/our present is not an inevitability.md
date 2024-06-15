@@ -1,0 +1,1 @@
+> "We take our visual environment as inevitable. And it's not. Other things could've happened." Eames Demetrios, [The Design Genius of Ray and Charles Eames](https://www.ted.com/talks/eames_demetrios_the_design_genius_of_charles_ray_eames?language=en#t-664491)

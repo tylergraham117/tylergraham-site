@@ -1,0 +1,3 @@
+Self consciousness in the modern sense is a phrase to describe feelings of insecurity.
+
+If you look at the word, though, it just means being conscious of the self. This is actually a beneficial thing. We want to be aware of who we are and how we effect the world around us. In actuality, I think self consciousness in its truest sense may be the path out of the insecurities we tend to mean we when use this term. 

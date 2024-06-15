@@ -1,0 +1,1 @@
+a healthy brain quickly forgets most of what passes into conscious awareness. The fragments of experience that do get encoded into long-term memory are then subject to “creative editing.” To remember an event is to reimagine it; in the reimagining, we inadvertently introduce new information, often colored by our current emotional state. (Remember book)

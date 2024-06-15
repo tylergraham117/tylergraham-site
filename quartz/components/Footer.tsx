@@ -18,13 +18,7 @@ export default ((opts?: Options) => {
           
         Created by <a href="https://tylergraham.io">Tyler Graham</a> © {year}
         </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+
       </footer>
     )
   }

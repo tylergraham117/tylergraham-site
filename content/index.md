@@ -3,8 +3,6 @@ date: "[[2024-06-15]]"
 tags: 
 publish: "true"
 ---
-# index
-
 
 
 # Welcome!

@@ -3,7 +3,8 @@ tags:
   - index
 cssclasses:
   - dashboard
-obsidianUIMode: preview
+obsidianUIMode: 
+publish: "true"
 ---
 # Personal YouTube Index 🎥
 

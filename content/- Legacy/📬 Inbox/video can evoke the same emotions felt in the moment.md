@@ -1,0 +1,1 @@
+Video is a great way to retell stories by stringing together moments in a way that presences the emotions of the experience.

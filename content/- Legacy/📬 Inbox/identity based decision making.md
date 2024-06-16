@@ -1,0 +1,1 @@
+What situation is this? Who am I? What does someone like me do in a situation like this?

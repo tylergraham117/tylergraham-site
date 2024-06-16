@@ -1,0 +1,1 @@
+https://quoteinvestigator.com/2012/04/28/shorter-letter/

@@ -1,0 +1,1 @@
+Distractions are everywhere. Our world is full of them. 

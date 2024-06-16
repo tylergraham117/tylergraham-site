@@ -1,1 +1,0 @@
-Live each day as if you already have. This requires slowing down and contemplating things more objectively, whatever that means. (Like in [[A Million Miles in a Thousand Years]])

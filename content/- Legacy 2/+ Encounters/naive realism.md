@@ -1,8 +1,0 @@
-up:: 
-tags:: #note/boat🚤 #on/perspective 
-
-# naive realism
-
-> In philosophy of perception and philosophy of mind, naïve realism (also known as direct realism, perceptual realism, or common sense realism) is the idea that the senses provide us with direct awareness of objects as they really are. When referred to as direct realism, naïve realism is often contrasted with indirect realism.According to the naïve realist, the objects of perception are not representations of external objects, but are in fact those external objects themselves. The naïve realist is typically also a metaphysical realist, holding that these objects continue to obey the laws of physics and retain all of their properties regardless of whether or not there is anyone to observe them. They are composed of matter, occupy space, and have properties, such as size, shape, texture, smell, taste and colour, that are usually perceived correctly. The indirect realist, by contrast, holds that the objects of perception are simply representations of reality based on sensory inputs, and thus adheres to the primary/secondary quality distinction in ascribing properties to external objects.In addition to indirect realism, naïve realism can also be contrasted with some forms of idealism, which claim that no world exists apart from mind-dependent ideas, and some forms of philosophical skepticism, which say that we cannot trust our senses or prove that we are not radically deceived in our beliefs; that our conscious experience is not of the real world but of an internal representation of the world.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Na%C3%AFve%20realism)

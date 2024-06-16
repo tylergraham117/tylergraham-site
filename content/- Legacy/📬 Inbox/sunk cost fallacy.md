@@ -1,1 +1,0 @@
-We can, at any point, start over. The past no longer exists.

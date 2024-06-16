@@ -1,3 +1,0 @@
-- They have withstood the test of time
-- If the knowledge still remains accurate, there's probably something there
-- The good stuff gets repeated

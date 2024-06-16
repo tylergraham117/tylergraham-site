@@ -1,6 +1,0 @@
-Over time, in a world which values hyper specialization over anything else, industries and disciplines have become further apart. Rather than working together, people in different industries have focused heavily on their field, digging deeper and deeper into the trenches of their work. The problem is that the world is not so simple as a single field. Real world problems often require multifaceted solutions. Unfortunately, since these trenches have become so deep, most specialized high performers have trouble seeing outside of their field to find the knowledge for the solution. 
-
-The antidote to this issue is [[divergent thinking]], which leads high performers to realize that [[creativity is the processes of creating connections]].
-
-
-> “…increasing specialization has created a “system of parallel trenches” in the quest for innovation. Everyone is digging deeper into their own trench and rarely standing up to look in the next trench over, even though the solution to their problem happen to resides there.” [[Range]]

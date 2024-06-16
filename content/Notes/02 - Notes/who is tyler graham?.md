@@ -1,9 +1,13 @@
-up:: 
-tags:: 
-
+---
+date: "[[2024-06-15]]"
+tags:
+  - status/idea🌱
+---
 # who is tyler graham?
-*This is an exploration into the character I am on screen.*
 
+*This is an exploration into the character of myself.*
+
+I have a lot of different interests that on the surface may seem random, but eventually tend to come together in some way.
 
 ##### **Finding The Flaw**
 - Prompts to find a sacred flaw:

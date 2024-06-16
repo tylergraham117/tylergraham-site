@@ -5,6 +5,7 @@ tags:
   - on/creativity
   - on/circumstance
   - on/environment
+publish: "true"
 ---
 # we are a function of our environment
 

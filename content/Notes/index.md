@@ -7,6 +7,16 @@ publish: "true"
 
 # Welcome!
 
-This is hopefully my website's homepage, where you can navigate around.
+Hi there! My name's Tyler. 
 
-Let's test it here: [[Home]]
+*Add a quick description.*
+
+*Link to a longer description.*
+
+*What am I currently up to?*
+
+*Contact*
+
+*A bit about this site*
+
+

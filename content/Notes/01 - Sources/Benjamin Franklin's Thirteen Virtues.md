@@ -3,7 +3,7 @@ date read: "[[2023-05-05]]"
 tags:
   - source
 author: 
-published: 
+released: 
 link:
 ---
 # Benjamin Franklin's Thirteen Virtues

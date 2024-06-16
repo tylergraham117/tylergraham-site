@@ -4,6 +4,7 @@ tags:
   - status/idea🌱
   - on/creativity
   - "#on/influence"
+publish: "true"
 ---
 # uniqueness comes from our influences
 

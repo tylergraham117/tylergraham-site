@@ -3,7 +3,7 @@ date read: "[[2024-01-03]]"
 tags:
   - source/article
 author: Blair Donovan
-published: 
+released: 
 link: https://www.apartmenttherapy.com/most-popular-design-style-by-decade-37057333
 ---
 # This Is the Most Popular Design Style from the Decade You Were Born (article)

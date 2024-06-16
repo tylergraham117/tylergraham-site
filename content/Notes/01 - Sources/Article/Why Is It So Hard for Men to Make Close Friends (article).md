@@ -4,7 +4,7 @@ tags:
   - source/article
   - on/friendship
 author: Catherine Pearson
-published: 
+released: 
 link: https://www.nytimes.com/2022/11/28/well/family/male-friendship-loneliness.html
 ---
 # Why Is It So Hard for Men to Make Close Friends?

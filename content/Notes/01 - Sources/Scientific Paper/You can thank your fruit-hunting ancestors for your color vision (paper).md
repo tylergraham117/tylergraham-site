@@ -4,7 +4,7 @@ tags:
   - source/scientificpaper
 up: "[[Sources MOC]]"
 author: 
-published: 2017-02-19
+released: 2017-02-19
 link: https://www.science.org/content/article/you-can-thank-your-fruit-hunting-ancestors-your-color-vision
 ---
 # You can thank your fruit-hunting ancestors for your color vision (paper)

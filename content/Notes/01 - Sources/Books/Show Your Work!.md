@@ -5,7 +5,7 @@ tags:
   - on/creativity
 author:
   - "[[Austin Kleon]]"
-published:
+released:
 ---
 # Show Your Work!
 

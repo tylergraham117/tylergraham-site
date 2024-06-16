@@ -3,7 +3,7 @@ date read: "[[2023-12-18]]"
 tags:
   - source/article
 author: Sarah Green Carmichael
-published: 
+released: 
 link: https://www.bloomberg.com/opinion/articles/2021-06-22/working-overtime-on-weekends-undercuts-capitalism
 ---
 # Working Overtime on Weekends Undercuts Capitalism (article)

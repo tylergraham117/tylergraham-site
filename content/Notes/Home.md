@@ -3,7 +3,6 @@ cssclasses:
   - dashboard
 obsidianUIMode: preview
 AutoNoteMover: disable
-publish: "true"
 ---
 
 

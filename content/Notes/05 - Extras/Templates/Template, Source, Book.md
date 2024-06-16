@@ -1,9 +1,9 @@
 ---
-date finished: '[[2023-05-10]]'
+date finished: "[[2023-05-10]]"
 tags:
   - source/book
 author: 
-published: 
+released:
 ---
 # <% tp.file.title %>
 

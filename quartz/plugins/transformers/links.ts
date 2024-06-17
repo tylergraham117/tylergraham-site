@@ -53,6 +53,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
               // rewrite all links
               if (
                 node.tagName === "a" &&
+                node.properties.target === "_blank" &&
                 node.properties &&
                 typeof node.properties.href === "string"
               ) {

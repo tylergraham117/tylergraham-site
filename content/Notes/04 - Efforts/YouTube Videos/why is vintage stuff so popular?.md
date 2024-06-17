@@ -1,5 +1,5 @@
 ---
-date: "[[2023-12-30]]"
+date: 2023-12-30
 tags:
   - effort/video
 active: true

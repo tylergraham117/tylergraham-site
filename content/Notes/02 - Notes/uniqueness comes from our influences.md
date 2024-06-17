@@ -4,7 +4,7 @@ tags:
   - status/idea🌱
   - on/creativity
   - "#on/influence"
-publish: "true"
+publish: true
 ---
 # uniqueness comes from our influences
 
@@ -18,9 +18,3 @@ If we want to become more unique, we need to craft ourselves a more unique envir
 Van Neistat is often referred to as incredibly unique, but he really just uses the styles of others that are less common. His influences are different.
 
 > "...what makes us unique is the diversity and breadth of our influences..." [[Show Your Work!]]
-
-
-
-
-This one is just a test for the link thing: [The 2024 24 Hours of Le Mans | Racing at our spiritual home - YouTube](https://www.youtube.com/watch?v=l3rh9ed9aBY)
-chat?

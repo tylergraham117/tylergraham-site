@@ -53,7 +53,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
               // rewrite all links
               if (
                 node.tagName === "a" &&
-                node.properties.target === "_blank" &&
                 node.properties &&
                 typeof node.properties.href === "string"
               ) {
@@ -82,6 +81,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     ],
                   })
                 }
+
+                    // Add target="_blank" to open links in a new tab
+                  node.properties.target = "_blank";
+                  
 
                 // Check if the link has alias text
                 if (

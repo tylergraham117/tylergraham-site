@@ -1,9 +1,10 @@
 ---
-date read: '[[<% tp.file.creation_date("YYYY-MM-DD") %>]]'
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags:
   - source/blog
 author: 
-link:
+link: 
+publish: false
 ---
 # <% tp.file.title %>
 

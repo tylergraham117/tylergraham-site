@@ -1,11 +1,14 @@
 ---
-date: '[[<% tp.file.creation_date("YYYY-MM-DD") %>]]'
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags:
   - log/meeting
+publish: false
 ---
 # <% tp.file.title %>
+'[[<% tp.file.creation_date("YYYY-MM-DD") %>]]'
 
 <% await tp.file.rename(tp.file.creation_date("YYYY-MM-DD ") + tp.file.title) %>
+
 
 ## Meeting Sheet
 ### Meeting Subject:

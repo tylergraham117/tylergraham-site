@@ -1,8 +1,9 @@
 ---
-date watched: '[[<% tp.file.creation_date("YYYY-MM-DD") %>]]'
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags:
   - source/movie
-link:
+link: 
+publish: false
 ---
 # <% tp.file.title %>
 

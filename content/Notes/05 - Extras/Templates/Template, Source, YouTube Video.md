@@ -1,9 +1,10 @@
 ---
-date watched: '[[<% tp.file.creation_date("YYYY-MM-DD") %>]]'
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags:
   - source/ytvideo
 creator: 
-link:
+link: 
+publish: false
 ---
 # <% tp.file.title %>
 

@@ -1,9 +1,10 @@
 ---
-date finished: "[[2023-05-10]]"
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags:
   - source/book
 author: 
-released:
+released: 
+publish: false
 ---
 # <% tp.file.title %>
 

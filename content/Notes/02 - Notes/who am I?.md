@@ -3,7 +3,7 @@ date: "[[2024-06-15]]"
 tags:
   - status/idea🌱
 ---
-# who is tyler graham?
+# who am I?
 
 *This is an exploration into the character of myself.*
 

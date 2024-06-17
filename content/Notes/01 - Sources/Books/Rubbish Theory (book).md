@@ -1,11 +1,14 @@
-up:: [[Sources MOC]]
-tags:: #source/book 
-dates::
-URL::  
-
+---
+date finished: "[[2023-05-10]]"
+tags:
+  - source/book
+author:
+  - Michael Thompson
+released:
+---
 # Rubbish Theory (book)
 **The Creation and Destruction of Value**
-*Michael Thompson*
+
 
 
 ## Summary

@@ -18,7 +18,7 @@ Hello there! I'm Tyler.
 
 ## A less quick introduction
 
-See [[who is tyler graham?]]
+See [[who am I?]]
 
 *This is also not setup yet.*
 

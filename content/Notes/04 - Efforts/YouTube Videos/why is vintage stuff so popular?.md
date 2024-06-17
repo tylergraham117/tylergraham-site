@@ -5,6 +5,7 @@ tags:
 active: true
 posted: false
 up: "[[Personal YouTube Index]]"
+publish: true
 ---
 # why is vintage stuff so popular?
 

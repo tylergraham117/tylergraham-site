@@ -274,6 +274,47 @@ thead {
   }
 }
 
+// Adding vertical lines to headers
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  content: '';
+  display: inline-block;
+  width: 5px; /* Width of the vertical line */
+  height: 100%; /* Full height of the header */
+  margin-right: 10px; /* Space between the line and the header text */
+  vertical-align: middle; /* Align the line vertically with the text */
+}
+
+h1::before {
+  background-color: red; /* Color for h1 */
+}
+
+h2::before {
+  background-color: orange; /* Color for h2 */
+}
+
+h3::before {
+  background-color: yellow; /* Color for h3 */
+}
+
+h4::before {
+  background-color: green; /* Color for h4 */
+}
+
+h5::before {
+  background-color: blue; /* Color for h5 */
+}
+
+h6::before {
+  background-color: purple; /* Color for h6 */
+}
+
+
+
 h1,
 h2,
 h3,

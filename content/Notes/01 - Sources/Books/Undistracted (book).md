@@ -1,10 +1,15 @@
-up:: [[Sources MOC]]
-tags:: #source/book #on/purpose 
-dates:: 2022/03/09
-URL::  
+---
+date: 2022-03-09
+tags:
+  - source/book
+author:
+  - "[[Bob Goff]]"
+released: 
+publish: false
+---
+# Undistracted (book)
 
-# Undistracted
-**[[Bob Goff]]**
+
 
 ### Summary
 

@@ -3,7 +3,7 @@
 // put your custom CSS here!
 
 
-// Adding vertical lines to headers
+/* Adding vertical divider lines to headers */
 h1::before,
 h2::before,
 h3::before,
@@ -40,4 +40,15 @@ h5::before {
 
 h6::before {
   background-color: purple; /* Color for h6 */
+}
+
+/* Additional styling to ensure it applies correctly */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative; /* Ensure headers have relative positioning */
+  padding-left: 15px; /* Adjust padding to make space for the line */
 }

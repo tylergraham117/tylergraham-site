@@ -3,6 +3,19 @@
 // put your custom CSS here!
 
 
+h1::before {
+    content: ' ';
+    display: inline-block;
+    width: 3px;
+    height: 100%;
+    margin-right: 10px;
+    vertical-align: middle;
+    background-color: red !important; /* Force the style */
+  }
+  
+
+
+
 /* Adding vertical divider lines to headers */
 h1::before,
 h2::before,

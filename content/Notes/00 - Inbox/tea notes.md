@@ -7,7 +7,8 @@ publish: true
 ---
 # tea notes
 
-###### NEW!
+###### new 2
+
 ## Western Brewing
 
 Little bit of tea, lots of water. Longer brewing time. A few brews.

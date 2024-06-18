@@ -3,7 +3,7 @@ date: 2024-06-17
 tags:
   - status/scratch📝
   - status/boat🚤
-publish: true
+publish: false
 ---
 # tea notes
 

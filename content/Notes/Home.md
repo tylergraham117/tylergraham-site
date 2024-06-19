@@ -48,6 +48,7 @@ Every tag should eventually get an index page.
 *'#status/boat🚤'* - The note is not connected to any other notes. It needs to be linked.
 *'#status/idea🌱'* - The note is a clear idea. It might have some connections, but overall it can stand on it's own as a though.
 *'#status/miniessay📓'* - The idea has been turned into a proper mini essay. There are links and references at the bottom, but the note itself stands on it's own. This is something that could be released to the public.
+'*status/essay📜*' - A full blown essay.
 *'#status/oversized🚛'* - The note has gotten too big. It needs to be either simplified or split into separate ideas or miniessays.
 
 #### "Source" Tags

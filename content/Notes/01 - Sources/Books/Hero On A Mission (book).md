@@ -9,41 +9,13 @@ URL::
 ### Summary
 
 
----
-
-### Main Ideas
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-
-### Tools
-1. 
-2. 
-3. 
-
-
----
-
-### Chapters
-
-
-
-
----
-
-### Information Dump
 
 
 ## The Four Roles We Play
 
-"I don't think any of us should trust fate to write the story of our lives.
-[[fate is a terrible writer]]." - Donald Miller
+> [!quote]
+> "I don't think any of us should trust fate to write the story of our lives.
+> [[fate is a terrible writer]]." - Donald Miller
 
 
 We, as people, are the people controlling our lives, and we have the responsibility to shape them how we seem fit. Meaning is a job for us.
@@ -85,7 +57,8 @@ out of their victimhood.
 - It is meaningful to sacrifice ourselves for the sake of another.
 
 
-"One of the great tragedies a person can experience is to feel dispassionate about their own life." 
+> [!quote]
+> "One of the great tragedies a person can experience is to feel dispassionate about their own life." 
 
 In life, we should [[think of ourselves as characters in a story]]. Everyone fits one of these 4 archetypes.
 
@@ -117,12 +90,15 @@ In life, we should [[think of ourselves as characters in a story]]. Everyone fit
 - Our overarching story is a collection of smaller stories. When one story ends, a new one begins. We have to make sure that the new one is just as good.
 - After we do something meaningful or adventurous, we have a tendency to want to bask in that for a while. This is a mistake. Time marches on without you, and you're sitting there without a new story. 
 	- You have to start writing the next page.
-- "Even after a great adventure, we must all dream up something new."
-- When we can't find a way to experience meaning, we distract ourselves with pleasure.
+
+> [!quote]
+> "Even after a great adventure, we must all dream up something new."
+
+When we can't find a way to experience meaning, we distract ourselves with pleasure.
 
 #### A Formula for Meaning
 1. Take action creating work or doing something. (Do something. Take action.)
-2. Experience something or encounter someone that you find captivating and that pulls you out of yourself. (Be interested in others.)
+2. Experience something or encounter someone that you find captivating and that pulls you out of yourself. (Be interested in something/someone beyond you.)
 3. Have an optimistic attitude towards the challenges that are inevitable. (Embrace hardship with the understand of it's benefit.)
 
 - When you take on a challenge with others, you forge a richer relationship.
@@ -150,12 +126,17 @@ In life, we should [[think of ourselves as characters in a story]]. Everyone fit
 We have to process challenges and understand how they have transformed us for them to be useful.
 
 
-- "At some point life stops handing us prewritten cultural scripts. The credits roll." Most people don't really do much beyond that.
+> [!quote]
+> "At some point life stops handing us prewritten cultural scripts. The credits roll." 
+
+Most people don't really do much beyond that.
 - This is why midlife crises occur. It's when we fail to write a new story for ourselves.
 - Even when we do have cultural scripts, they are just the default. It's more fulfilling to write your own version of them. Being intentional is always a better alternative.
 
-- "It's not our right to question whether or not life has meaning, rather it is life that questions us: Will you make your life meaningful or will you suffer the existential vacuum?" 
-	- We don't get to interrogate life. It's the other way around. We're the ones on the spot.
+> [!quote]
+> "It's not our right to question whether or not life has meaning, rather it is life that questions us: Will you make your life meaningful or will you suffer the existential vacuum?" 
+
+We don't get to interrogate life. It's the other way around. We're the ones on the spot.
 
 A life of meaning is achieved when we have an ambition, share it with others, and learn to accept the challenges that come with it. 
 

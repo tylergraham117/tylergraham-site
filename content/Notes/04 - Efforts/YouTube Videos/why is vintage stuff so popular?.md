@@ -676,6 +676,12 @@ I could incorporate my personal interactions with vintage.
 
 
 
+Vintage isn't even about the quality or the deals or anything like that.
+It's about the human storyline, and where we fall within it.
+It's about connection to the human condition.
+It's the feeling of being part of a greater narrative.
+
+
 
 
 

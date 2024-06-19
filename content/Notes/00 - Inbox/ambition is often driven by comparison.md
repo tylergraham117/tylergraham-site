@@ -1,8 +1,11 @@
-up:: 
-tags:: #note/develop🍃 
-
+---
+date: 2024-06-17
+tags:
+  - status/scratch📝
+  - status/boat🚤
+publish: false
+---
 # ambition is often driven by comparison
-
 
 
 

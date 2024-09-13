@@ -5,6 +5,10 @@ cssclasses:
   - dashboard
 obsidianUIMode:
 ---
+
+
+
+> Contents
 # Personal YouTube Index 🎥
 
 ``` dataview

@@ -10,29 +10,25 @@ title: Hello!
 
 ## A Quick Introduction
 
-Hello there! I'm Tyler. 
-
-*This is where I'd put a little bio if I could think of how I wanted to format it.*
+Hello there! I'm Tyler. I make videos to learn new things and inspire creativity in others.
 
 
 ## A less quick introduction
 
 See [[who am I?]]
 
-*This is also not setup yet.*
-
 
 ## Currently
 
-Here are some things I'm [[working on now]].
+Here are some things I'm [[working on now]], as well as some [[things I'd really like to do]].
 
 
 ## Contact
 
-I'd love to meet you. Feel free to [[contact me]]
+I'd love to meet you. My email is tyler@tylergraham.io
 
 
-## A bit about this site
+## How to navigate this website after this page
 
-*Just a quick explanation on how to navigate this website after this page.*
+This website is a little unusual. There's no menu or anything like that. Instead, you can navigate by clicking on links within text or searching for what you're looking for. If you're curious, here's [[how I built this website]].
 

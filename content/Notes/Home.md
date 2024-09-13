@@ -14,6 +14,9 @@ AutoNoteMover: disable
 	- [[Music Index]] 
 	- [[Filmmaking Index]]
 	- [[urban planning]]
+- ## Administrative
+	- [[Financial Index]]
+	- [[Home Bills]]
 
 ---
 

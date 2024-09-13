@@ -7,10 +7,10 @@ publish: false
 
 *Outline the different focus modes for my life.*
 
-Core
-Open
-Sleep
-Health
-Travel
-DND
-
+- [x] Core
+- [ ] Open
+- [ ] Sleep
+- [ ] Health
+- [ ] Travel
+- [ ] DND
+- [ ] Work

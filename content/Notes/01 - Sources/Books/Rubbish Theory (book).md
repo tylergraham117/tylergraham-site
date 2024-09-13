@@ -35,7 +35,6 @@ released:
 - This book argues a third category, Rubbish. Rubbish is not of positive or negative value, but no value at all.
 - If Rubbish was not a category, if everything in the world was of value one way or another, then moving from one category to another would not be possible. 
 	- Directionally, Transient is moving in the negative and Durable in the positive. To cross over from Transient to Durable, they must pass 0 (Rubbish, no value).
-
 - The author's supervisor (Mary Douglas) wrote paper called 'Cultural Bias' that was later expanded into a theory called cultural theory. It apparently relates quite a bit to this theory of Rubbish.
 - Social status and the ownership of Durables is closely related.
 - Money, by itself, does not confer social status. 

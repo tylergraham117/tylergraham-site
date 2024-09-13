@@ -4,5 +4,5 @@ tags:
   - status/scratch📝
   - status/boat🚤
 ---
-# you don't need squarespace to make a personal website
+# you don't need Squarespace to make a personal website
 

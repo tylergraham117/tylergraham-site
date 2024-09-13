@@ -9,15 +9,7 @@ publish: false
 ---
 # why is vintage stuff so popular?
 
-
-
-## Story Structure
-- Introduction
-- 
-
-
-
-  
+how does old stuff become cool?
 
 
 
@@ -53,105 +45,317 @@ So, I did some digging.
 
 
 
-I started by reading some articles about how trends have evolved over time. I compiled a bunch of them and wrote up this big summary that contextualized design trends from the past 100 years. 
 
-Then I filmed this whole bit where I presented that information, imported the footage, saw how long just that was, and realized: 
-*MED: Pull back through editing screen.*
-Man this is boring.
+*Start on black. VO comes in. On "new tech," fast montage sequence of new technologies coming out. Music is a fast, futuristic type beat. Text on "Every Single Day"*
+
+**VO**
+It feels like new technology is coming out every single day. There's always some ground breaking discovery. A new thing to learn. 
+As this happens, I find myself more and more gravitating towards the past. I just find it more comforting and I'm not really sure why.
+But one you should know about me thing about me: I don't like not knowing why. 
 
 
+*INT. WI Camera looking through books. Pull out book to reveal.*
 
-So instead, I'll just show you what I distilled from it.
+So I started with reading about how trends evolve.
 
-Basically, trends seem to be driven by a 3 main things, which we’ll get to.
+*INT. WI Top down shot. Sitting on the floor. Papers surrounding me.*
 
-The first is economic status at a societal level.
-The prime example of this is minimalism vs maximalism. 
-Generally speaking, when the economy is performing worse, minimalism is more popular. When it's doing well, maximalism starts to be more popular.
+This ended up going a lot deeper than I expected. From old thrift shops, to the creation of value from trash, to Macklemore??
 
-The 20s were a hugely maximalist decade, as was the mid century era.
-The 30s were more minimalist, largely due to the great depression.
-We see this happen again later in the 
+But before I could get too deep into why this resurgence is happening, I needed to understand where this idea of "vintage" even comes from.
 
-If times are tough and people can't afford expensive things, then cheaper things get made, and design has to follow that. If the economics allow it, then design gets to experiment and innovate.
-
-Which brings us to the second driver, technological innovation. From trains and factories to space ships and computers, the technology of a time largely impacts how people interact with their environments. It also provides a set of constraints that design has to exist within.
-
-The final driver is that the youths want to rebel against their parents. Basically every decade is characterized by people looking at the last generation and being like, man, that's bad.
-And they do the exact opposite. But when every generation does the exact opposite, trends end up swinging like a pendulum. And that's why I can dress like my grandpa and not look weird.
+*I look up and throw some papers. Camera tracks up through the roof, up to global level on a map, over to London.*
 
 
 
+#### The Emergence of Vintage
 
 
+And that brings us to London. In the 1960s. 
+*London, warp into historical imagery, buildings pop.*
 
-Basically I'm just wanting to convey the point of all that information. What's the gist?
-Mostly, it's that every time there's a trend, there's a reaction. 
-Most reactions are the opposite of what came before them. 
-So trends have this natural swing back and forth. 
-Also, design choices are heavily influenced by the technology of the time and the economic status of the world at the time.
+*Zoom out from fullscreen to show youtube home page. Cursor goes to close video.*
+Wait wait wait. I know history is like boring or whatever but I promise this is important. Just bear with me.
 
+*Zoom back in*
+The industrial revolution allowed factories to create mass produced consumer goods.
 
+And now that factory made clothing is widely available and relatively cheap, secondhand clothing becomes associated with poverty.
 
+*Transition talking head*
 
+And in this weird social status game that everyones playing, wearing clothes that are associated with being poor isn't cool, so people stop wearing used clothes. [^1]
 
-So it seems like trends are driven by a 3 main things. 
-*Maybe this can be shot in the car? "Drivers"*
-The first is necessity. If people can't afford expensive things, then cheaper things get made, and design has to follow that. If the economics allow it, then design gets to experiment and innovate.
+*Back to historical graphic*
 
-Which brings us to the second driver, technological innovation. From trains and factories to space ships and computers, the technology of a time largely impacts how people interact with their environments. It also provides a set of constraints that design has to exist within.
+That is until the 1960s in London. 
 
-The final driver is that the youths want to rebel against their parents. Basically every decade is characterized by people looking at the last generation and being like, man, that's bad.
-And they do the exact opposite. But when every generation does the exact opposite, trends end up swinging like a pendulum. And that's why I can dress like my grandpa and not look weird.
+Around this time, the UK is undergoing a shift in taste at home.
 
+*Found media*
 
+People are starting to appreciate the the historical significance that their homes have. And with that, they begin to look away from all the shiny new home decor on the market, and instead develop a sort of "alternative consumerism." [^2]
 
+*Text*
 
-#### Old Intro
+*Zoom over to markets*
 
-~~*Transition out of black with a shot through records as I pick one out*
-*Record player shots*~~
+Over the next couple of decades, these things called rag markets start popping up. They're mostly a way for people to make extra money selling clothes during the recession. It's a side hustle. [^1]
 
-~~You know, now that I think about it, I'm not sure that I fully understand what vintage even means. ~~
+But there's also a rebellious aspect to it. At this point in Britain there's a new emphasis on 'natural' products and a general move away from typical consumerism.
 
+I even saw one article that referred to the way certain young people dressed at the time as "outlaw fashion" which I thought was kinda sick.
 
-~~Like how old does something have to be to be considered vintage? Is there like a threshold or is it more of a you know it when you see (it kind of thing.) *cut it off*
-~~
+*Source animated*
 
+So wearing vintage clothing emerges out of an inherently anti-consumerism cultural movement.
 
-~~20 years. It's 20 years. Well, sometimes it's 20 years. ('Hooked on Vintage,' Fashion Theory, DeLong, Marilyn, Barbara Heineman, and Kathryn Reiley)~~
+But over time, the line between high fashion and street style starts to get fuzzy. 
 
-~~Check this out.
-The word 'vintage' originally comes from the world of wine. Which now that I say that out loud it seems obvious, but I don't collect wine or even drink wine because I think it doesn't taste good I'd rather have juice like a 9 year old. Anyways.~~
+And the idea of wearing old clothes starts to become accepted. (Great Gatsby, American Graffiti, Annie Hall, China Syndrome)
 
-~~In the world of wine, vintage refers to a particular age or year of wine, and usually includes the place of ori,
-Then in the 1960s it was adapted to the world of clothing, and was used in a really similar way. 
-A vintage piece of clothing was roughly equivalent to like, some good grapes, which meant it was probably worth buying. ~~
+*Map to NYC with vintage wave moving over*
+Eventually, this idea makes it's way out of London, across the ocean, and into New York City.
 
-~~But language is alive and the word morphed into a more abstract and general description of old clothing. There was no specific time frame.~~
+These little resale shops start popping up to sell secondhand clothing. But its not like regular clothing. This is like, designer level clothing, and really only up to 2 years old. Anything older than that gets refused from these shops. 
 
-~~So when I say sometimes 20 years, I mean that the word vintage has meant a lot of different things over time.
-But 20 years is a pretty widely accepted age now so we'll just stick with that to keep it simple.~~
+But still, it's a big contrast from before.
 
-~~Ok cool we know we what it means but where did this concept come from? Have people just always liked old things? I'm not sure yet.~~
+One article talks about old clothing as something for "the most fashion-conscious youths of an affluent generation," "the more esoteric the better." [^3]
+*Show source*
 
-~~What I do know is that vintage is trendy right now.~~
+At this point, vintage is still pretty niche, and the articles about it at the time seem to be kind of mocking it,
 
-~~*Setting up lights*~~
-
-~~And to understand why old stuff is cool, I think we need to figure out how trends trend in the first place.~~
-
-~~Trends seem to trickle down throughout all of design, starting in the areas that have the quickest realization process. When you shrink the time between people making design choices and those choices actually materializing, trends can move a lot faster.~~
-
-~~So, I spent a pretty obscene amount of time studying trends in photography, interior design, fashion, cinema, advertising, and graphic design across the past hundred years or so, and then looked at those trends within their respective historical contexts. Here's what I found. 
-**This is a very American-centric view on the past century of trends.**~~
-
-~~*Pull in green screen*~~
-
-
+*(“old,” “vintage” and even “laughable.” Taylor’s tone is one of amusement) pg 54*
  
+ but that starts to shift in the 70s. 
+*"the beginning of a new fashion era" - from the 70s part of the paper*
 
-#### Act 1: Trends
+Wearing old clothing starts to become mainstream. People are raiding the vintage boutiques and consignment shops and thrift stores. 
+
+*Talking head*
+
+Because of this shift, the media at the time decided to ask people why they preferred old clothes over shopping new.
+
+And from what I can tell, there are really 7 main reasons:
+
+*Graphic. 7 boxes or whatever, start unfilled.*
+
+The price. I mean, this one feels pretty obvious. Second hand stuff is significantly cheaper than buying new stuff. 
+
+The originality. If you buy something vintage, you can be pretty sure that you're not going to run into someone else that has the same thing as you. It makes your object seem rare, and you're the person that had to work hard to find the thing. And in a world of mass production, that's just a lot more impressive to many people.
+
+Eco-consciousness. This one seems like more of an afterthought honestly. Most people don't make decisions because of this, but it's a nice benefit when it happens and helps reinforce the behavior. Nothing like a sense of moral superiority to get you to double down on what you're doing.
+
+Nostalgia. Certain people long for the past, and while it might not be based in anything tangible, they have a sense that things were just better back in the day, so buying older things fulfills that nostalgic need.
+
+The Experience. As companies shifted into lifestyle marketing in the 80s, brand image started to become emphasized over a product's intrinsic qualities. The experience of shopping for something shifted. Then, with online shopping, we became even more removed from the process.
+
+Quality. This is the point that seems the most compelling to most people. Because of the transition into mass production, the quality that larger companies are able to produce drops dramatically. So people turn towards older materials, older techniques, to get something of high quality. 
+
+Authenticity. This one is pretty esoteric but it seems to me that this is just a sense of human-ness. Mass production and large scale consumerism feels really robotic, so by looking towards small shops selling objects of the past, you're able to connect to something real. 
+
+
+Because of these reasons, vintage gets so popular that shop owners actually start getting worried about supply.
+
+And anytime something gets that popular, capitalism gets curious.
+
+So we start to see these massive corporations taking these old designs and recreating them, but with the same lower quality materials and techniques and watered down shopping experience that people are trying to get away from. 
+
+What's crazy is that this started as an inherently anti-consumerism movement. And now it's a trend that's being fueled by large corporations. 
+
+One of the biggest drivers of people wanting vintage things, the authenticity, even gets highjacked. 
+Corporations start to use marketing imagery of small, family owned businesses to give the illusion of human-ness. 
+*Show examples of this like trader joes*
+
+
+
+These big companies remaking old objects got me thinking. Not all old things are cool. 
+
+Certain objects get old and get forgotten about. 
+
+But every once in a while, something gets old and ends up being just as if not more valuable than it was to begin with. 
+
+
+
+
+#### The Creation and Destruction of Value
+
+
+When I think about the value of an object, I'm tempted to think about that thing's intrinsic, empirical value. 
+
+But in reality, objects don't really have intrinsic value. The value of an object only really lies in how a person or lots of people interact with that object. 
+
+Value is constructed socially, not through how important something is for our survival (although that's a factor), but through collective beliefs.
+
+The final portion of this video is dedicated to finding out how something can be of value, and then slowly decline in importance until it is all but forgotten, and then one day emerge from the ashes as a possession more valuable than ever before.
+
+
+A recent example of this in my world is the resurgence of film.
+
+There was a point when film was a technological marvel. It was new and exciting and people were able to capture life and revisit it. 
+
+Kodak was the most popular film company. They had about 90% market share. In the 90s they were  one of the most valuable brands in the US.[^4]
+[Kodak Failed By Asking The Wrong Marketing Question](https://www.forbes.com/sites/avidan/2012/01/23/kodak-failed-by-asking-the-wrong-marketing-question/#:~:text=In%20fact%2C%20at%20its%20peak%2C%20Kodak%20captured,its%20success%2C%20which%20made%20it%20resistant%20to)
+
+["The last Kodak moment?"](http://www.economist.com/node/21542796). _[The Economist](https://en.wikipedia.org/wiki/The_Economist "The Economist")_. January 14, 2012
+
+
+When digital came around, slowly, most people transitioned. It was a new technology that made a worthy replacement.
+
+Eventually, film became basically trash. With digital being easier and cheaper, there was just no reason to use it.
+
+Recently though, and if you're even close to the video or photography space then you already are very aware of this: people are using it anyways. 
+
+So much so that the price of film has gone way up. So has the resale market of old film cameras. 
+
+We're even seeing companies produce new film or film emulation technologies to bring us this nostalgic feeling. (Fuij x100vi and Kodak Super 8)
+
+The point I'm trying to make is that in, I don't know, 2017, the demand for film cameras was really small. To most people, it basically didn't exist anymore. 
+
+The style of the time was to get these super clean, digital looking images, so that's what manufacturers made. Film was pretty cheap because nobody really wanted it. 
+ 
+But today, it seems like everyone's trying to get that film look. Just like the people in the UK during the 60s that started caring about their architectural history, or the people shopping at thrift stores in 1970s NYC, we've identified there's something magic about film. Something nostalgic and real.
+
+
+
+Following the demand, film camera prices and everything surrounding them have gone through the roof. 
+
+Film technologies have regained their value in the marketplace because the artistic look that is popular right now drove it there.
+
+
+How does something make that journey? 
+
+To go from basically trash to something everyone seems to care about?
+
+
+
+Let's talk about Rubbish Theory.
+
+Rubbish is something we pretty much ignore. It's discarded from our lives and therefore our minds. It generally lives outside of the concerns of economic theory. 
+
+But some objects, although pretty rarely, re-enter the value circulation as a prized possession.
+
+Here's how it happens.
+
+Objects are broken down into 3 groups: transient, durable, and rubbish. 
+
+The value of a Transient object decreases with time. It's value is trending negative. This is most objects.
+
+The value of a Durable object increases with time. It's value is trending positive.
+The ownership of Durable objects is closely related to social status. So people want Durable objects.
+
+
+Rubbish is different. It has no value. It's value is 0, and it is not moving.
+
+
+But every once in a while we see an object go from a downward trend, from Transient, to a positive trend, Durable. 
+
+According to Rubbish Theory, the only way something can go from a negative trend to a positive one is by passing 0 first. For a Transient object to become a Durable, it must first become Rubbish.
+
+Remember the film example.
+
+Not just anything can make this move from Transient to Rubbish to Durable. The Durable category is associated with status, so naturally it has some gate keepers. 
+
+Rubbish Theory calls these the "High Priests." They are the critics, the ones who decide what's in and what's out.
+
+The other archetypes of the theory are: 
+The Levelers: These are the people who flood the Durable category and diminish both status and power.
+The Losers Out: These people are squeezed out to the margins and are mostly unable to participate in this system. 
+And finally, the Individualists: These people do things how they want regardless of what other people care about. 
+
+The Individualists tend to be the champions of Rubbish. They are the ones that move these objects into the Durables category.
+
+
+
+The types of people that are able to make the shift from Rubbish to Durable are representative of our culture's values. 
+Right now, we seem at least partially to be valuing people who find importance in reusing old things, in not wasting, in vintage.
+
+They value quality over mass production. They value originality and nostalgia and experience and authenticity. 
+
+
+I like to think of the Individualists as the artists. 
+
+
+There's constant pull on us as creatives. It's a pull to shift our creative preferences towards whatever new wave of creative material is becoming popular. 
+
+But you can't catch a wave as it's already going by you. 
+
+I've spent this video talking about trends and cycles and the creation of value. 
+
+But it seems like the ones who are actually able to move the needle in any meaningful way are the one's that don't really care about all of that. 
+
+
+The concept of vintage isn't about the quality or the deals or anything like that.
+It's about the human storyline, and where we fall within it.
+It's about a connection to our past. 
+It's the feeling of being part of a greater narrative.
+
+The real discovery here for me is that instead of chasing trends, we should aim to create them. 
+
+Rather than following the direction of the crowd, we should aim to stick with the direction that feels true to ourselves.
+
+That's how we aid in creation of value. If not economic value, artistic value. Human value.
+
+That sounds simple enough. But the world fights against us in this. We are bombarded by the opinions and desires of others which pull our attention away from our own.
+
+"It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great {person} is {one} who in the midst of the crowd keeps with perfect sweetness the independence of solitude." Ralph Waldo Emerson, Self Reliance.
+
+
+
+
+
+
+People are rebelling against a future they do not want by going to the past.
+
+
+Maybe I also talk about how old things are time machines. By having access
+
+
+
+
+I need to pause our video here for a second to be transparent with you. I've been working on this script on and off for months. And so far, it's felt like I just can't make it work. I thought maybe I hadn't done enough research, so I started doing more. I thought the story wasn't interesting, so I spent hours writing new drafts. Eventually, I started to think this idea wasn't interesting at all. 
+
+Then one day, Jrnie brought home a cassette player. She had been at her grandmas house all day going through old dust covered boxes full of memories. And that reminded me of the old dust covered tapes that I had at my parents house sitting in my childhood dresser. 
+
+So I went and got them. 
+
+When you start going through memories like this, you can never be too sure what you're going to find. 
+
+Past lives begin to unfold right in front of your eyes. 
+
+*Play a tape of Nana.*
+
+
+
+There are a lot of reasons people long for the past. 
+
+In my drive to find out why, I've been looking at it from a lot of different angles. I thought if I took an academic approach, if I looked at the history and the economics, I would find my answer. 
+
+And I wasn't wrong in that. But it's incomplete. 
+
+When I think about why I'm drawn to old things, it's not because trends or economic value or anything like that.
+
+It's because these things tell stories. Stories about me and where I came from. Stories about the people I love. Stories about people I have never and will never meet. 
+
+
+
+???^
+This clinging to the past feels safe. It feels like home. I'm scared of the world we're building. It feels like it's moving in a direction that sterilizes human-ness. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Act 2: How Trends Trend
 
 ##### 1920s
 We begin in the 1920s. 
@@ -162,7 +366,7 @@ Factories are able to just pump out product. Up until recently though, there's b
 
 But now World War 1 is over and factories are able to shift from weapons manufacturing to consumer goods. 
 
-And although the economy was pretty rough during the war, it explodes afterwards. 
+~~And although the economy was pretty rough during the war, it explodes afterwards.~~ 
 
 The period was characterized by leisure and luxury for the most amount of people in a like most of history up until that point.
 
@@ -200,9 +404,9 @@ Designs were streamlined, which made them easier to mass produce, which made the
 
 ~~The 30s were also the golden age of radio because it was cheap entertainment. So we see a lot of living rooms arranged around a central radio cabinet instead of all facing each other, kind of like how it is today with TVs.~~
 
-The world of fashion kinda kept innovating. 
+~~The world of fashion kinda kept innovating. ~~
 
-But it was mostly found in the celebrity world. The silver screen became a beacon of hope for a struggling society. 
+~~But it was mostly found in the celebrity world. The silver screen became a beacon of hope for a struggling society. ~~
 
 If the 20s were a time of excess, the 30s were a time of, um, not excess. 
 *Holding a thesaurus*
@@ -215,7 +419,7 @@ Basically all of America's resources are going to fighting again. Instead of mak
 
 Design kinda takes a beat here.
 
-But the war ends in '45 and there's this huge economic expansion. Wait isn't that what happened last time a war ended? That's probably not important.
+But the war ends in '45 and there's this huge economic expansion. ~~Wait isn't that what happened last time a war ended? That's probably not important.~~
 
 ~~Anyways so everyone's coming back from the war, and now they want to buy houses and start families. So residential real estate demand just explodes, and builders have to find shortcuts to keep up. 
 *Welcome to the suburbs* (Levittown)
@@ -248,23 +452,23 @@ It's a lot like how the design trends of the 20s were driven by transportation t
 ##### 1960s
 The 60s sees a continuation of mid century modern design, but there's a counterculture blossoming. 
 
-We see this huge rise in individualism now that time has past since the war.
+We see this huge rise in individualism now that time has passed since the war.
 
 The youths are rebelling against tradition and America is changing.
-We've got the civil rights movement, women's right's movement, these dudes. (the Beatles)
+~~We've got the civil rights movement, women's right's movement, these dudes. (the Beatles)~~
 
 Everything in design from fashion to home decor gets more dynamic and colorful.
 ~~There's a playfulness in it.~~
 
 All these boomers are being born families want bigger houses to accommodate them. 
 
-Economic prosperity is driving trends, so things like matching furniture become a status symbol. It showed you that you could afford to buy a whole room full of furniture all at the same time.
+~~Economic prosperity is driving trends, so things like matching furniture become a status symbol. It showed you that you could afford to buy a whole room full of furniture all at the same time.~~
 
 ##### 1970s
 In the 70s, people want to bring more natural colors and materials into the home. House plants become a big thing, and so do things like wicker, rattan, and macrame.
 
-There's also like this big oil crisis that had people waiting in line for gas. 
-That probably had something to do with people not using as many colorful plastics as in the 60s.
+~~There's also like this big oil crisis that had people waiting in line for gas. 
+That probably had something to do with people not using as many colorful plastics as in the 60s.~~
 
 There's shaggy rugs, busy wallpaper, and very little black or white. Just so. much. color. And disco!
 
@@ -283,6 +487,8 @@ We also see the invention of the computer, which also means a new type of design
 Digital Graphic design. We see those same bold colors here too. 
 
 It's a vibrant decade.
+
+
 
 
 
@@ -305,61 +511,52 @@ Now when I was taught about the Roaring Twenties in school, they made it sound l
 And maybe that's true for some people?
 
 But what doesn't really get talked about is the wealth shift that occurred over the course of that decade. 
-Towards the end of the 20s, the wealthiest 1 percent of people were receiving nearly 1/4 of all pretax income. 60% of families earned less than $2000 per year, which is like around $30k in 2024 money.  ([Roaring Twenties | Definition, Music, History, & Facts | Britannica](https://www.britannica.com/topic/Roaring-Twenties))
+Towards the end of the 20s, the wealthiest 1 percent of people were receiving nearly 1/4 of all pretax income. 
 
-This is supposed to be the prime of America. So why do we see this massive wealth disparity between classes?
+Check these out.
 
+[Economic Inequality - Our World in Data](https://ourworldindata.org/economic-inequality#all-charts)
 
-So why did I just spend like 5 minutes going through a history that's not even really an accurate depiction of what life was like? 
+This is a chart that shows us how much income the richest 1% of people are making in the 1920s. It ranges from 20-23% throughout the decade. 
 
-Well, mostly because those historical events were the ones driving the most widespread design trends of the time. 
-In those eras, the upper classes drive those trends, so its useful to look at history through that lens.
+60% of families earned less than $2000 per year. That's like trying to feed your family on around $30k in 2024 money.  ([Roaring Twenties | Definition, Music, History, & Facts | Britannica](https://www.britannica.com/topic/Roaring-Twenties))
 
-It's also important because it helps us see the push and pull that goes on with society and trends and consumer behavior and everything in between. 
+Later, like in the 50s and 60s, the top 1% are have a lesser share. Somewhere between 12 and 16%.
 
+Here's that same chart flipped upside down. This is the income share of the bottom 50%. 
 
+In the 20s, it's about 13-14%. The top 1% make more money that the bottom 50%.
 
-
-There's this book that explores and theorizes the cycles of history that America goes through. 
-
-The theory goes into a lot more than I'm going to talk about here, but I'd highly recommend either watching a more in depth summary about it or reading the book itself.
-
-Here's the basic premise.
-
-In effect, you have these 4 categories or "Turnings" as the book calls it, of time periods. 
-
-Each one lasts about 20 years. And these periods are driven by generations aging. 20 years is about how long it takes for generation to go from birth to adulthood, when they can start enacting changes in the society they live in.
-
-You can think of these 4 periods sort of like the seasons within nature. Summer, autumn, winter, spring.
+In the 50s and 60s, again we see that shift, and we're pushing 20%. The bottom half of income earners now have more than the top 1%. Barely.
 
 
-We'll start with spring, what the theory calls a "High".
-This is an upbeat era. Institutions are strengthened. Individualism weakens. Society is community driven and content. 
+Why are we talking about wealth inequality in a video about the popularity of vintage? 
 
 
-Then comes summer. This is called the "Awakening". It's an era that includes a lot of spiritual changes in the culture. Because of the confidence born during the High, society is comfortable basically doing some soul searching. 
+When things become popular, they also become more valuable. Very basic supply and demand. 
 
+And if things are valuable, it costs money to buy them. If people don't have money to buy the popular thing, they'll find a different thing.
 
-This leads us to the Autumn-like "Unraveling." We see a fragmentation of culture and lots of value debates. 
-
-
-Finally comes winter, the "Crisis." This is a period with severe consequences. It's a harsh time. It ends an era and defines a generation's ability to respond. We are in a Crisis right now.
+So what we see is, depending on who has money, and how much of it, different types of things become popular.
 
 
 
-Let me give you some concrete examples that align with the timeline we just went through a second ago.
 
-From the early 1900s up until 1929 when the stock market crashed was an Unraveling. An autumn. Even though the 20s were supposedly this massive party era where everyone was doing great, most people were not doing great. This period saw a massive wealth gap. There was reform and fundamentalism and crime and debates of alcohol and political corruption. It was a time of "do what feels good" as the people's vision for the future darkened and worldviews grow increasingly complex. 
 
-The Stock market crash of 1929 kicked off the Crisis era, the winter, which continues through WW2. Times are tough. People are preoccupied by real, tangible struggle. It's a period defined by a sense of urgency to fix the world. 
+Let me give you some concrete examples that align with the timeline we just went through.
+
+First let's look from the early 1900s up until 1929 when the stock market crashed.
+Even though the 20s were supposedly this massive party era where everyone was doing great, most people were not doing great. There was reform and fundamentalism and crime and debates of alcohol prohibition and political corruption. It was a time of "do what feels good" as the people's vision for the future darkened and worldviews grew increasingly complex. 
+
+The Stock market crash of 1929 kicked off the Great Depression. Times are tough. People are preoccupied by real, tangible struggle. It's a period defined by a sense of urgency to fix the world. 
 There's not a lot of philosophical, spiritual exploration going on. It's time of pragmatism. Eventually, societal feelings transition to exhaustion, then relief, then optimism. 
 
-This kicks off spring, the High, which starts when WW2 ends. Society is unified having just gone through tough times. The perspective of what the future could become gets brighter. 
-This is when we see tradition American suburbs start to pop up everywhere. The vision for the American dream as we understand it today seems to have been born during this era. We've been fantasizing about this high since it happened. 
+Which kicks off the next stage around when WW2 ends. Society is unified having just gone through tough times and fought a common enemy. The perspective of what the future could become gets brighter. 
+This is when we see tradition American suburbs start to pop up everywhere. The vision for the American dream as we understand it today seems to have been born during this era. And we've been fantasizing about this high since it happened. 
 
-We shift towards an Awakening, summer, around 1964. Society is getting comfortable and forgetting about the hard times of the Crisis. We see rising individualism and spiritual exploration. Think like Woodstock.
+We shift towards again around 1964. Society is getting comfortable and forgetting about the trials they just went through. We see rising individualism and spiritual exploration. Think like Woodstock.
 
-Then finally, in the mid 80s, we shift towards an Unraveling again. National debt is growing, we see the same wealth gaps emerge as we did in the 20s, and the vision for the future grows darker once again.
+Then finally, in the mid 80s, we shift again. National debt is growing, we see the same wealth gaps emerge as we did in the 20s, and the vision for the future grows darker once again.
 
 
 The time in which a generation is raised shapes their values for the rest of their life. 
@@ -369,15 +566,11 @@ So we see a situation where current events shape the young generation of the tim
 That tends to lead young generations to hold opposite values from their elders. 
 
 
-And while in this this cyclical nature is super predictable in this particular society, it's not something that is only found in American history. It sort of seems to be a property of all human social systems.
+> *(Source for this whole section is The Fourth Turning)*
 
 
 
-
-And then we overlap design trends with all of this.
-
-
-And we see that there are periods of relative economic prosperity and innovation but also a sort of 'ignoring the problems' mentality that usually comes with loud maximalist designs and flashy consumer goods. 
+When we overlap design trends with all of this, we see that here are periods of relative economic prosperity and innovation but also a sort of 'ignoring the problems' mentality that usually comes with loud maximalist designs and flashy consumer goods. 
 
 Then there's some sort of economic downturn, which is followed a pulling back on the consumer side. Design gets a lot more minimalist out of necessity. 
 
@@ -387,223 +580,38 @@ People begin getting comfortable innovating with design again. And the cycle con
 
 
 
-So it seems like trends are driven by a 3 main things. 
-*Maybe this can be shot in the car? "Drivers"*
-The first is necessity. If people can't afford expensive things, then cheaper things get made, and design has to follow that. If the economics allow it, then design gets to experiment and innovate.
+
+
+
+Basically, trends seem to be driven by a 3 main things.
+
+The first is economic status at a societal level.
+The prime example of this is minimalism vs maximalism. 
+Generally speaking, when the economy is performing worse, minimalism is more popular. When it's doing well, maximalism starts to be more popular.
+
+The 20s were a hugely maximalist decade, as was the mid century era.
+The 30s were more minimalist, largely due to the great depression.
+
+If times are tough and people can't afford expensive things, then cheaper things get made, and design has to follow that. If the economics allow it, then design gets to experiment and innovate.
 
 Which brings us to the second driver, technological innovation. From trains and factories to space ships and computers, the technology of a time largely impacts how people interact with their environments. It also provides a set of constraints that design has to exist within.
 
-The final driver is that the youths want to rebel against their parents. Basically every decade is characterized by people looking at the last generation and being like, man, that's bad.
-And they do the exact opposite. But when every generation does the exact opposite, trends end up swinging like a pendulum. And that's why I can dress like my grandpa and not look weird.
+The final driver is that the youths want to rebel against their parents. Basically every decade is characterized by people looking at the last generation and being like, man, you guys did a bad job.
+And they do the exact opposite. But when every generation does the exact opposite, trends end up swinging like a pendulum. 
 
+Every time there's a trend, there's a reaction. 
+Most reactions are in some way the opposite of what came before them. 
+So trends have this natural swing back and forth. 
 
 
-#### Act 2: The Emergence of Vintage
 
 
 
-*INT. WI Top down shot. Sitting on the floor. Papers surrounding me.*
 
-Okay that was a lot of information. And it tells us a lot about trends and how they get started and how things change over time and how cycles repeat.
 
 
-But we still don't really know where this idea of vintage really starts to take hold. 
 
-So I dug some more. And eventually, I found a paper that gives us a good starting point.
 
-*I look up and throw them. Camera tracks up through the roof, up to global level, over to London.*
-
-
-And that starting point is London. In the 1960s. 
-*London, warp into historical imagery, buildings pop.*
-
-Remember how factories in America are able to create mass produced consumer goods because of the whole industrial revolution thing? Well, that's true in a lot of the world. 
-
-And now that factory made clothing is widely available and relatively cheap, secondhand clothing becomes associated with poverty.
-
-And in this weird social status game that everyones playing, wearing clothes that are associated with being poor isn't cool, so people stop wearing used clothes. 
-
-That is until the 1960s in London. 
-
-*Zoom over to markets*
-During this time, there's these things called rag markets that start popping up. It starts mostly because there's a recession and this is a way for people to make extra money selling clothes.
-
-But there's also a rebellious aspect to it. At this point in Britain there's this sort of alternative consumerism emerging. There's a new emphasis on 'natural' products and a general move away from typical consumerism.
-I even saw one article that referred to the way certain people dressed at the time as "outlaw fashion" which I thought was kinda sick.
-So wearing vintage clothing emerges out of an inherently anti-consumerism cultural movement.
-
-But over time, the line between high fashion and street style starts to get fuzzy. 
-
-And the idea of wearing old clothes starts to become accepted, largely because pop culture consisted of lots of retro-themed films, TV, and books.
-
-*Map to NYC with vintage moving over*
-Eventually, this idea makes it's way out of London, across the ocean, and into New York City.
-
-These little resale shops start popping up to sell secondhand clothing. But its not like regular clothing. This is designer level clothing, and really only up to 2 years old. Anything older gets refused. 
-
-But still, it's a big contrast from before. There's even an article that mentions a shop where the actress Barbra Streisand apparently shopped, which is a spark that begins moving vintage from poverty to celebrity status.
-
-In 1967 an article from the New York Times talks about old clothing as something for "the most fashion-conscious youths of an affluent generation," "the more esoteric the better."
-
-At this point, vintage is still pretty niche, and the articles about it at the time seem to be kind of mocking it, but that starts to shift in the 70s. 
-
-"the beginning of a new fashion era" - from the 70s part of the paper
-
-Wearing old clothing starts to become mainstream. People are raiding the vintage boutiques and consignment shops and thrift stores. 
-
-
-
-
-Because of this shift, the media at the time decided to ask people why they preferred old clothes over shopping new.
-Actually, over the years there has been quite a bit of research done concerning why people shop vintage.
-
-And from what I can tell, there are really 7 main reasons:
-
-
-The price. I mean, this one feels pretty obvious. Second hand stuff is significantly cheaper than buying new stuff. The difference between the economic value of a new object and an object that is used, even if they're in ostensibly the same condition, is surprisingly large. The actual amount varies depending on the type of object, of course. A car, for example, depreciates a lot as soon as you drive it off the lot of a dealership, while something like a house holds it's value for much longer.
-
-The originality. If you buy something vintage, you can be sure that you're not going to run into someone else wearing the same thing as you. This might not be something that everyone cares about, but lots of people do. And in a world of mass production, it can be difficult to find something unique in a typical store or online.
-
-Eco-consciousness. This one seems like more of an afterthought honestly. Most people don't make decisions because of this, but it's a nice benefit when it happens and helps reinforce the behavior. Nothing like a sense of moral superiority to get you to double down on what you're doing.
-
-Nostalgia. Certain people long for the past, and while it might not be based in anything tangible, they have a sense that things were just better back in the day, so buying older things fulfills that nostalgic need.
-
-The Experience. As companies shift into lifestyle marketing in the 80s, brand image starts to become emphasized over a product's intrinsic qualities. Because of this, department stores start to organize their floors based on brand rather than by item type. This makes it hard to comparison shop for different styles, but it also drains the sense of discovery from the shopping experience. 
-
-Authenticity. **EXPAND** 
-
-Quality. This is the point that seems the most compelling to most people. Because of the transition into mass production, the quality that larger companies are able to produce drops dramatically. So people turn towards older materials, older techniques, to get something of high quality. 
-
-
-
-So because of these reasons, vintage gets so popular that shop owners actually start getting worried about supply.
-
-And anytime something gets that popular, capitalism gets curious.
-
-So we start to see these massive corporations taking these old designs and recreating them, but with the same lower quality materials and techniques and watered down shopping experience that people are trying to get away from. 
-
-At this point though it doesn't matter, because the trend has started to get published in magazines and bleed into pop culture. And not everyone cares about these reasons for vintage, or knows the difference. 
-
-So "retro" gets just as popular.
-
-And while these words are kind of used interchangeably, retro is usually referring to the reproduction of an old thing rather than the old thing itself. 
-
-So the word vintage is sort of a semantic attempt to reclaim authenticity for genuinely old 
-objects.
-
-
-What's crazy is that this started as an inherently anti-consumerism movement. And now it's a trend that's being fueled by large corporations. 
-
-And in recent decades this has gone even further. 
-
-Companies have taken the mass production manufacturing process of post war factories to a new level. 
-
-New materials and techniques are being created. Companies like Zara and Ikea are making things that are good enough to ship across an ocean but won't last much longer than that. 
-
-And the price is incredible, don't get me wrong. Especially in a time where disposable income is decreasing as cost of living increases.
-
-But these companies still have to squeeze a profit out of these products. So they make them as cheaply as possible and use their scale to their advantage.
-
-
-And then, in 2012, someone creates what I'd argue to be the single most culturally important piece of media ever produced for the popularization of old objects. 
-*Thrift Shop plays in the background*
-
-Jokes aside, this song did do a lot to popularize the idea of vintage. It helped make old objects, mostly clothing, seem cool to a young American generation.
-
-
-And that's why the demand for vintage has grown so much over the past few decades. 
-
-Higher quality materials and manufacturing techniques. 
-A better consumer experience. 
-Macklemore
-Originality
-Cost
-
-
-That's why old stuff is so popular.
-
-Basically, this video was a long winded way of saying: they don't make em like they used to.
-
-Case closed. 
-
-
-
-
-
-Wait. How do we decide what old stuff gets popular? 
-
-
-
-
-#### Act 3: The Creation and Destruction of Value
-
-
-How does an object hold value? What does it mean for an object to be valuable?
-
-When I think about the value of an object, I'm tempted to think about that thing's intrinsic, empirical value. 
-
-But in reality, objects don't really have intrinsic value. The value of an object only really lies in how a person or lots of people interact with that object. 
-
-Value is constructed socially, not through how important something is for our survival (although that's a factor), but through collective beliefs.
-
-The final portion of this video is dedicated to finding out how something can be of value, and then slowly decline in importance until it is all but forgotten, and then one day emerge from the ashes as a possession more valuable than ever before.
-
-
-To give you a concrete example of this, let's talk about film, film cameras, and the style of film in general. 
-
-There was a point where film was a technological marvel. It's was new and exciting and people were able to capture life and revisit it. 
-
-And when digital came around, slowly, most people transitioned. It was new technology, an innovation that made a worthy replacement for film due to the ease and cost of use.
-
-Recently though, and if you're even close to the video or photography space then you already are very aware of this, film has had a massive resurgence. 
-
-So much so that the price of film has gone way up. So has the resale market of old film cameras. 
-
-We're even seeing companies produce new film or film emulation technologies to bring us this nostalgic feeling. 
-
-Some really well received, like the Fuji x100v that was impossible to get for like 2 years straight because people loved it so much, and some questionable like this Kodak Super 8 camera for almost $6,000.
-
-
-The point I'm trying to make is that in, I don't know, 2017, the demand for film cameras was small hyper niche. 
-
-The style of the time was to get these super clean, digital looking images, so that's what manufacturers made. Film was pretty cheap because nobody really wanted it. 
-
-But today, it seems like everyone's trying to get that film look now. So following the demand, companies are making products that do that. Actual film prices have gone through the roof. 
-
-Film technologies have regained their value in the marketplace because the artistic look that is popular right now drove it there.
-
-
-
-Let's look at another example.
-
-The mid century modern style of furniture was first developed in the 50's by companies like Herman Miller and Knoll.
-
-Some of their pieces (the Eames chair and Womb Chair, for example) reached the point where most people recognized them. Crazy popular.
-
-And right now, this style is still pretty popular. We see a lot of the styles of that era being pretty relevant today, with the abundance of lamps and warm tones and colorful splashes.
-
-But even just 5 years ago this was not the case. Everything was clean and rigid and minimalist and "modern."
-
-So while we see lots of companies taking design notes from this mid century era now, just a few years ago this stuff would've been basically worthless. 
-
-
-Junk. Trash. Rubbish.
-
-
-Rubbish Theory is a book that was originally published in 1979. This new edition is from 2017, just to give you some context on this information.
-
-When it first released, the ideas that Michael Thompson explores were pretty counter to how economists determined value, but he makes the case that they were missing a crucial piece of the puzzle, and developed an idea that's now foundational to the field: rubbish theory.
-
-It's something we pretty much ignore. It's discarded from our lives and therefore our minds. It lives outside of the concerns of economic theory. 
-
-But some objects, although pretty rarely, re-enter the value circulation as a prized possession, and can even reach the status of priceless.
-
-Here's how it happens.
-
-
-
-
- 
 
 
 
@@ -629,17 +637,11 @@ There also would probably be some sort of action in real life, away from digital
 
 But what?
 
+Maybe I could talk to some people about vintage? Or maybe 
 
 
 
 
-
-
-
-
-
-
-So instead of putting you through all of that, I decided to just show you this.
 
 
 
@@ -814,7 +816,9 @@ But the trends trickle throughout.
 
 
 [[fonts through the decades]]
+# Footnotes
 
-
-
-
+[^1]: Fischer, N. L. (2015). Vintage, the First 40 Years: The Emergence and Persistence of Vintage Style in the United States. _Culture Unbound_, _7_(1), 45–66. // [[Vintage, the First 40 Years (paper)]]
+[^2]: Samuel, Raphael (1994): _Theatres of Memory_, New York: Verso Press.
+[^3]: Taylor, Angela (1967): ‘Searching the Ragman’s Pack and Finding Fashion’, _New York Times_, 23 January.
+[^4]: Dan, Avi (2012): Kodak Failed By Asking The Wrong Marketing Question, Forbes

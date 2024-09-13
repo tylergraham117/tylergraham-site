@@ -7,4 +7,5 @@ tags:: #effort/video/series
 - [[the loneliness epidemic]]
 - the loneliness paradox
 - what is social anxiety?
+- [[turning my house into a coffee shop]]
 - 

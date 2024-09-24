@@ -16,3 +16,7 @@ I freelance as a
 
 If you have a project you're excited about and would like to invite me into the mix, I'd love to hear from you! Feel free to email me at tyler@tylergraham.io
 
+
+
+
+

@@ -1,13 +1,19 @@
 ---
 date: 2023-12-30
 tags:
-  - effort/video
-active: true
-posted: false
+  - effort/video/main
+status: preproduction
+series: 
+due: 
+live: false
+sponsor: 
 up: "[[Personal YouTube Index]]"
 publish: false
 ---
 # why is vintage stuff so popular?
+
+
+
 
 how does old stuff become cool?
 
@@ -51,43 +57,53 @@ So, I did some digging.
 **VO**
 It feels like new technology is coming out every single day. There's always some ground breaking discovery. A new thing to learn. 
 As this happens, I find myself more and more gravitating towards the past. I just find it more comforting and I'm not really sure why.
-But one you should know about me thing about me: I don't like not knowing why. 
-
 
 *INT. WI Camera looking through books. Pull out book to reveal.*
+**To camera**
+And I don't like not knowing why. 
 
-So I started with reading about how trends evolve.
+**VO**
+So I started with reading about how trends evolve. I found research papers. Books. 
 
+And that's when I realized...
+
+*INT. Med center framing*
+**To camera**
+This is going to be more work than I thought.
+
+*CU: Quick cuts on different lighting setups to show time pass. Build chaos.*
+**VO**
+I read about old thrift shops, the creation of value from trash, design trends from the last 100 years, and Macklemore??
 *INT. WI Top down shot. Sitting on the floor. Papers surrounding me.*
+*I look up and throw some papers. Camera tracks up through the roof, up to map, over to London.*
 
-This ended up going a lot deeper than I expected. From old thrift shops, to the creation of value from trash, to Macklemore??
-
-But before I could get too deep into why this resurgence is happening, I needed to understand where this idea of "vintage" even comes from.
-
-*I look up and throw some papers. Camera tracks up through the roof, up to global level on a map, over to London.*
-
+**VO**
+The research was getting overwhelming, so I decided to simplify my approach and start with figuring out where the idea of vintage comes from.
 
 
 #### The Emergence of Vintage
 
-
+**VO**
 And that brings us to London. In the 1960s. 
 *London, warp into historical imagery, buildings pop.*
 
-*Zoom out from fullscreen to show youtube home page. Cursor goes to close video.*
+It turns out that the idea of vintage is a product of the industrial revolution allowing factories to create mass prod...
+
+*Cursor goes to close video. Track on cursor. Zoom out to show youtube*
 Wait wait wait. I know history is like boring or whatever but I promise this is important. Just bear with me.
 
 *Zoom back in*
-The industrial revolution allowed factories to create mass produced consumer goods.
 
-And now that factory made clothing is widely available and relatively cheap, secondhand clothing becomes associated with poverty.
+The industrial revolution allowed factories to create mass produced consumer goods. Before that, clothing was really expensive.
 
-*Transition talking head*
+Now that factory made clothing is widely available and relatively cheap, secondhand clothing becomes associated with poverty.
+
+**Transition talking head**
 
 And in this weird social status game that everyones playing, wearing clothes that are associated with being poor isn't cool, so people stop wearing used clothes. [^1]
 
 *Back to historical graphic*
-
+**VO**
 That is until the 1960s in London. 
 
 Around this time, the UK is undergoing a shift in taste at home.
@@ -96,19 +112,22 @@ Around this time, the UK is undergoing a shift in taste at home.
 
 People are starting to appreciate the the historical significance that their homes have. And with that, they begin to look away from all the shiny new home decor on the market, and instead develop a sort of "alternative consumerism." [^2]
 
-*Text*
+*Text "alternative consumerism"*
 
 *Zoom over to markets*
 
 Over the next couple of decades, these things called rag markets start popping up. They're mostly a way for people to make extra money selling clothes during the recession. It's a side hustle. [^1]
 
+**To camera**
+
 But there's also a rebellious aspect to it. At this point in Britain there's a new emphasis on 'natural' products and a general move away from typical consumerism.
 
 I even saw one article that referred to the way certain young people dressed at the time as "outlaw fashion" which I thought was kinda sick.
-
 *Source animated*
 
-So wearing vintage clothing emerges out of an inherently anti-consumerism cultural movement.
+**VO**
+
+So wearing vintage clothing comes out of an inherently anti-consumerism cultural movement.
 
 But over time, the line between high fashion and street style starts to get fuzzy. 
 
@@ -116,13 +135,6 @@ And the idea of wearing old clothes starts to become accepted. (Great Gatsby, Am
 
 *Map to NYC with vintage wave moving over*
 Eventually, this idea makes it's way out of London, across the ocean, and into New York City.
-
-These little resale shops start popping up to sell secondhand clothing. But its not like regular clothing. This is like, designer level clothing, and really only up to 2 years old. Anything older than that gets refused from these shops. 
-
-But still, it's a big contrast from before.
-
-One article talks about old clothing as something for "the most fashion-conscious youths of an affluent generation," "the more esoteric the better." [^3]
-*Show source*
 
 At this point, vintage is still pretty niche, and the articles about it at the time seem to be kind of mocking it,
 
@@ -133,101 +145,96 @@ At this point, vintage is still pretty niche, and the articles about it at the t
 
 Wearing old clothing starts to become mainstream. People are raiding the vintage boutiques and consignment shops and thrift stores. 
 
-*Talking head*
-
+**To camera**
+*Standing*
 Because of this shift, the media at the time decided to ask people why they preferred old clothes over shopping new.
 
-And from what I can tell, there are really 7 main reasons:
+And from what I can tell, there are really 5 main reasons:
 
-*Graphic. 7 boxes or whatever, start unfilled.*
+*Graphic. 5 boxes or whatever, start unfilled.*
 
-The price. I mean, this one feels pretty obvious. Second hand stuff is significantly cheaper than buying new stuff. 
+The price. I mean, this one feels pretty obvious. Second hand stuff is usually cheaper than buying new stuff. 
 
-The originality. If you buy something vintage, you can be pretty sure that you're not going to run into someone else that has the same thing as you. It makes your object seem rare, and you're the person that had to work hard to find the thing. And in a world of mass production, that's just a lot more impressive to many people.
+The originality. If you buy something vintage, you can be pretty sure that you're not going to run into someone else that has the same thing as you. It makes your thing seem rare, and you're the person that had to work hard to find the thing. It's almost a different kind of status symbol.
 
-Eco-consciousness. This one seems like more of an afterthought honestly. Most people don't make decisions because of this, but it's a nice benefit when it happens and helps reinforce the behavior. Nothing like a sense of moral superiority to get you to double down on what you're doing.
+The Experience. Buying new things usually happens in a big box store or online. That's boring. Buying vintage comes with the experience of finding it. 
 
-Nostalgia. Certain people long for the past, and while it might not be based in anything tangible, they have a sense that things were just better back in the day, so buying older things fulfills that nostalgic need.
-
-The Experience. As companies shifted into lifestyle marketing in the 80s, brand image started to become emphasized over a product's intrinsic qualities. The experience of shopping for something shifted. Then, with online shopping, we became even more removed from the process.
-
-Quality. This is the point that seems the most compelling to most people. Because of the transition into mass production, the quality that larger companies are able to produce drops dramatically. So people turn towards older materials, older techniques, to get something of high quality. 
+Quality. Because of the transition into mass production, the quality that larger companies are able to produce drops dramatically. So people turn towards older materials, older techniques, to get something of high quality. 
 
 Authenticity. This one is pretty esoteric but it seems to me that this is just a sense of human-ness. Mass production and large scale consumerism feels really robotic, so by looking towards small shops selling objects of the past, you're able to connect to something real. 
 
 
-Because of these reasons, vintage gets so popular that shop owners actually start getting worried about supply.
+*INT Med* 
+**To camera**
+Honestly, coming up with this list felt like I'd figured it out. These are the reasons why old stuff is popular.
 
-And anytime something gets that popular, capitalism gets curious.
+And, like, yeah.
 
-So we start to see these massive corporations taking these old designs and recreating them, but with the same lower quality materials and techniques and watered down shopping experience that people are trying to get away from. 
-
-What's crazy is that this started as an inherently anti-consumerism movement. And now it's a trend that's being fueled by large corporations. 
-
-One of the biggest drivers of people wanting vintage things, the authenticity, even gets highjacked. 
-Corporations start to use marketing imagery of small, family owned businesses to give the illusion of human-ness. 
-*Show examples of this like trader joes*
+But then I started to notice something weird with one of the reasons. Price.
 
 
+*Cut to a bunch of expensive old stuff. This sequence should feel like a build / chaotic and then a release on a nice clean minimal shot of objects*
 
-These big companies remaking old objects got me thinking. Not all old things are cool. 
+**VO**
+Not all old stuff is cheaper. It turns out that some of it is a lot more expensive.
 
-Certain objects get old and get forgotten about. 
-
-But every once in a while, something gets old and ends up being just as if not more valuable than it was to begin with. 
-
-
-
+*Jump cuts on those minimal product shots*
 
 #### The Creation and Destruction of Value
 
+*Title of section comes up*
 
 When I think about the value of an object, I'm tempted to think about that thing's intrinsic, empirical value. 
 
+*B Roll of people interacting with old objects would be cool here.*
+
 But in reality, objects don't really have intrinsic value. The value of an object only really lies in how a person or lots of people interact with that object. 
 
-Value is constructed socially, not through how important something is for our survival (although that's a factor), but through collective beliefs.
+Value is constructed socially, through collective beliefs.
 
-The final portion of this video is dedicated to finding out how something can be of value, and then slowly decline in importance until it is all but forgotten, and then one day emerge from the ashes as a possession more valuable than ever before.
+And an object can be worth a lot, and then slowly decline in importance until it is all but forgotten, and then emerge from the ashes as more valuable than ever before.
+
+*Text*
+But how?
 
 
-A recent example of this in my world is the resurgence of film.
-
-There was a point when film was a technological marvel. It was new and exciting and people were able to capture life and revisit it. 
-
-Kodak was the most popular film company. They had about 90% market share. In the 90s they were  one of the most valuable brands in the US.[^4]
+**To Camera**
+Over the past couple years, there has been a massive resurgence in the popularity of film.
+*Show film resurgence*
+There was a point when film was a technological marvel.
+*Historical sources*
+Kodak was the most popular film company. In the 90s they were  one of the most valuable brands in the US.[^4]
 [Kodak Failed By Asking The Wrong Marketing Question](https://www.forbes.com/sites/avidan/2012/01/23/kodak-failed-by-asking-the-wrong-marketing-question/#:~:text=In%20fact%2C%20at%20its%20peak%2C%20Kodak%20captured,its%20success%2C%20which%20made%20it%20resistant%20to)
 
 ["The last Kodak moment?"](http://www.economist.com/node/21542796). _[The Economist](https://en.wikipedia.org/wiki/The_Economist "The Economist")_. January 14, 2012
 
-
+*Early digital films*
 When digital came around, slowly, most people transitioned. It was a new technology that made a worthy replacement.
 
-Eventually, film became basically trash. With digital being easier and cheaper, there was just no reason to use it.
+Eventually, film became basically worthless outside of really specific uses. With digital being easier and cheaper, there was just no reason to use it.
 
-Recently though, and if you're even close to the video or photography space then you already are very aware of this: people are using it anyways. 
+**To camera**
+Recently though, and if you're anywhere close to the video production or photography space then you already are very aware of this: people are using it anyways. 
 
 So much so that the price of film has gone way up. So has the resale market of old film cameras. 
 
 We're even seeing companies produce new film or film emulation technologies to bring us this nostalgic feeling. (Fuij x100vi and Kodak Super 8)
 
+**To camera**
 The point I'm trying to make is that in, I don't know, 2017, the demand for film cameras was really small. To most people, it basically didn't exist anymore. 
 
-The style of the time was to get these super clean, digital looking images, so that's what manufacturers made. Film was pretty cheap because nobody really wanted it. 
- 
-But today, it seems like everyone's trying to get that film look. Just like the people in the UK during the 60s that started caring about their architectural history, or the people shopping at thrift stores in 1970s NYC, we've identified there's something magic about film. Something nostalgic and real.
+But today, it seems like everyone's trying to capture the essence of film. 
+
+Just like the people in the UK during the 60s that started caring about their architectural history, or the people shopping at thrift stores in 1970s NYC, we've identified there's something magic about film.
+
+This technology has regained its value in the marketplace because the artistic look that is popular right now drove it there.
 
 
-
-Following the demand, film camera prices and everything surrounding them have gone through the roof. 
-
-Film technologies have regained their value in the marketplace because the artistic look that is popular right now drove it there.
-
-
-How does something make that journey? 
-
+So how does something make that journey? 
 To go from basically trash to something everyone seems to care about?
 
+
+*Throw something in the trash.*
 
 
 Let's talk about Rubbish Theory.

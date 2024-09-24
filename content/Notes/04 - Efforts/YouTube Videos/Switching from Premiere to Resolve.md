@@ -1,11 +1,14 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
+date: 2024-09-19
 tags:
   - effort/video
-active: false
+status: idea
+series: 
+due: 
 posted: false
+sponsor: 
 up: "[[Personal YouTube Index]]"
 publish: false
 ---
-# <% tp.file.title %>
+# Switching from Premiere to Resolve
 

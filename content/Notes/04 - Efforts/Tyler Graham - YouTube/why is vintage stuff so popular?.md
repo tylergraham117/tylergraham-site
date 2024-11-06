@@ -14,11 +14,6 @@ publish: false
 
 
 
-
-how does old stuff become cool?
-
-
-
 ## Script
 
 #### Intro
@@ -55,7 +50,7 @@ So, I did some digging.
 *Start on black. VO comes in. On "new tech," fast montage sequence of new technologies coming out. Music is a fast, futuristic type beat. Text on "Every Single Day"*
 
 **VO**
-It feels like new technology is coming out every single day. There's always some ground breaking discovery. A new thing to learn. 
+The current pace of technological innovation is pretty dizzying. There's always some ground breaking discovery. A new thing to learn. 
 As this happens, I find myself more and more gravitating towards the past. I just find it more comforting and I'm not really sure why.
 
 *INT. WI Camera looking through books. Pull out book to reveal.*
@@ -65,6 +60,8 @@ And I don't like not knowing why.
 **VO**
 So I started with reading about how trends evolve. I found research papers. Books. 
 
+I read about old thrift shops, the creation of value from trash, design trends from the last 100 years, and Macklemore??
+
 And that's when I realized...
 
 *INT. Med center framing*
@@ -73,18 +70,18 @@ This is going to be more work than I thought.
 
 *CU: Quick cuts on different lighting setups to show time pass. Build chaos.*
 **VO**
-I read about old thrift shops, the creation of value from trash, design trends from the last 100 years, and Macklemore??
+
 *INT. WI Top down shot. Sitting on the floor. Papers surrounding me.*
 *I look up and throw some papers. Camera tracks up through the roof, up to map, over to London.*
 
 **VO**
-The research was getting overwhelming, so I decided to simplify my approach and start with figuring out where the idea of vintage comes from.
+So I decided to simplify my approach and start with figuring out where the idea of vintage comes from.
 
 
 #### The Emergence of Vintage
 
 **VO**
-And that brings us to London. In the 1960s. 
+Which brings us to London. In the 1960s. 
 *London, warp into historical imagery, buildings pop.*
 
 It turns out that the idea of vintage is a product of the industrial revolution allowing factories to create mass prod...
@@ -128,8 +125,10 @@ I even saw one article that referred to the way certain young people dressed at 
 **VO**
 
 So wearing vintage clothing comes out of an inherently anti-consumerism cultural movement.
+ 
+A movement that would later be hijacked by big brands selling products off our nostalgia.
 
-But over time, the line between high fashion and street style starts to get fuzzy. 
+Over time, the line between high fashion and street style starts to get fuzzy. 
 
 And the idea of wearing old clothes starts to become accepted. (Great Gatsby, American Graffiti, Annie Hall, China Syndrome)
 
@@ -146,8 +145,9 @@ At this point, vintage is still pretty niche, and the articles about it at the t
 Wearing old clothing starts to become mainstream. People are raiding the vintage boutiques and consignment shops and thrift stores. 
 
 **To camera**
-*Standing*
-Because of this shift, the media at the time decided to ask people why they preferred old clothes over shopping new.
+*Walk over to curtains and open them. Then turn to camera.*
+
+Because of this shift, the media started asking people why they preferred old stuff over shopping new.
 
 And from what I can tell, there are really 5 main reasons:
 
@@ -164,19 +164,20 @@ Quality. Because of the transition into mass production, the quality that larger
 Authenticity. This one is pretty esoteric but it seems to me that this is just a sense of human-ness. Mass production and large scale consumerism feels really robotic, so by looking towards small shops selling objects of the past, you're able to connect to something real. 
 
 
-*INT Med* 
+*EXT Wide, Park bench* 
 **To camera**
 Honestly, coming up with this list felt like I'd figured it out. These are the reasons why old stuff is popular.
 
 And, like, yeah.
 
-But then I started to notice something weird with one of the reasons. Price.
-
+But as I
+*Turn head mid sentence and cut on it.*
+ thought about it more and more, my mind went to some of the vintage stuff I've seen for sale in recent years. 
 
 *Cut to a bunch of expensive old stuff. This sequence should feel like a build / chaotic and then a release on a nice clean minimal shot of objects*
 
 **VO**
-Not all old stuff is cheaper. It turns out that some of it is a lot more expensive.
+It turns out that some old stuff is significantly more expensive than new stuff.
 
 *Jump cuts on those minimal product shots*
 
@@ -184,6 +185,7 @@ Not all old stuff is cheaper. It turns out that some of it is a lot more expensi
 
 *Title of section comes up*
 
+*Sitting on the couch*
 When I think about the value of an object, I'm tempted to think about that thing's intrinsic, empirical value. 
 
 *B Roll of people interacting with old objects would be cool here.*
@@ -203,7 +205,7 @@ Over the past couple years, there has been a massive resurgence in the popularit
 *Show film resurgence*
 There was a point when film was a technological marvel.
 *Historical sources*
-Kodak was the most popular film company. In the 90s they were  one of the most valuable brands in the US.[^4]
+Kodak was the most popular film company. In the 90s they were one of the most valuable companies in the US.[^4]
 [Kodak Failed By Asking The Wrong Marketing Question](https://www.forbes.com/sites/avidan/2012/01/23/kodak-failed-by-asking-the-wrong-marketing-question/#:~:text=In%20fact%2C%20at%20its%20peak%2C%20Kodak%20captured,its%20success%2C%20which%20made%20it%20resistant%20to)
 
 ["The last Kodak moment?"](http://www.economist.com/node/21542796). _[The Economist](https://en.wikipedia.org/wiki/The_Economist "The Economist")_. January 14, 2012
@@ -211,14 +213,14 @@ Kodak was the most popular film company. In the 90s they were  one of the most v
 *Early digital films*
 When digital came around, slowly, most people transitioned. It was a new technology that made a worthy replacement.
 
-Eventually, film became basically worthless outside of really specific uses. With digital being easier and cheaper, there was just no reason to use it.
+Eventually, film became basically worthless outside of really specific uses. With digital being easier and cheaper, there was just no reason to use it. The world stopped valuing it.
 
 **To camera**
-Recently though, and if you're anywhere close to the video production or photography space then you already are very aware of this: people are using it anyways. 
+Recently though, and if you're anywhere close to the video / photography space then you already are very aware of this: people are using it anyways. 
 
-So much so that the price of film has gone way up. So has the resale market of old film cameras. 
+So much so that the price of film and the cameras that shoot it have gone way up. 
 
-We're even seeing companies produce new film or film emulation technologies to bring us this nostalgic feeling. (Fuij x100vi and Kodak Super 8)
+We're even seeing companies produce new film or film emulation technologies to bring us a similar feeling. (Fuji x100vi and Kodak Super 8)
 
 **To camera**
 The point I'm trying to make is that in, I don't know, 2017, the demand for film cameras was really small. To most people, it basically didn't exist anymore. 
@@ -236,16 +238,16 @@ To go from basically trash to something everyone seems to care about?
 
 *Throw something in the trash.*
 
-
 Let's talk about Rubbish Theory.
 
-Rubbish is something we pretty much ignore. It's discarded from our lives and therefore our minds. It generally lives outside of the concerns of economic theory. 
+Rubbish is something we pretty much ignore. It's discarded. 
+It lives outside of the concerns of people and economic theory. 
 
 But some objects, although pretty rarely, re-enter the value circulation as a prized possession.
 
 Here's how it happens.
 
-Objects are broken down into 3 groups: transient, durable, and rubbish. 
+We can break objects up into 3 groups: transient, durable, and rubbish. 
 
 The value of a Transient object decreases with time. It's value is trending negative. This is most objects.
 
@@ -262,14 +264,16 @@ According to Rubbish Theory, the only way something can go from a negative trend
 
 Remember the film example.
 
-Not just anything can make this move from Transient to Rubbish to Durable. The Durable category is associated with status, so naturally it has some gate keepers. 
+Not just anything can make this move from Transient to Rubbish to Durable. 
+
+The Durable category is associated with status, so naturally it has some gate keepers. 
 
 Rubbish Theory calls these the "High Priests." They are the critics, the ones who decide what's in and what's out.
 
 The other archetypes of the theory are: 
 The Levelers: These are the people who flood the Durable category and diminish both status and power.
 The Losers Out: These people are squeezed out to the margins and are mostly unable to participate in this system. 
-And finally, the Individualists: These people do things how they want regardless of what other people care about. 
+And finally, the Individualists: These people do things how they want regardless of what other people think is valuable. 
 
 The Individualists tend to be the champions of Rubbish. They are the ones that move these objects into the Durables category.
 
@@ -278,25 +282,14 @@ The Individualists tend to be the champions of Rubbish. They are the ones that m
 The types of people that are able to make the shift from Rubbish to Durable are representative of our culture's values. 
 Right now, we seem at least partially to be valuing people who find importance in reusing old things, in not wasting, in vintage.
 
-They value quality over mass production. They value originality and nostalgia and experience and authenticity. 
-
 
 I like to think of the Individualists as the artists. 
 
-
-There's constant pull on us as creatives. It's a pull to shift our creative preferences towards whatever new wave of creative material is becoming popular. 
+There's this constant pull on us as creatives to shift our creative preferences towards whatever new wave of creative material is becoming popular. 
 
 But you can't catch a wave as it's already going by you. 
 
-I've spent this video talking about trends and cycles and the creation of value. 
-
-But it seems like the ones who are actually able to move the needle in any meaningful way are the one's that don't really care about all of that. 
-
-
 The concept of vintage isn't about the quality or the deals or anything like that.
-It's about the human storyline, and where we fall within it.
-It's about a connection to our past. 
-It's the feeling of being part of a greater narrative.
 
 The real discovery here for me is that instead of chasing trends, we should aim to create them. 
 
@@ -304,46 +297,76 @@ Rather than following the direction of the crowd, we should aim to stick with th
 
 That's how we aid in creation of value. If not economic value, artistic value. Human value.
 
-That sounds simple enough. But the world fights against us in this. We are bombarded by the opinions and desires of others which pull our attention away from our own.
-
 "It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great {person} is {one} who in the midst of the crowd keeps with perfect sweetness the independence of solitude." Ralph Waldo Emerson, Self Reliance.
 
 
+*INT. Wide Setting up backdrop for tapes.*
 
+I've been working on this video on and off for months. And honestly so far, it's felt like I just can't make it work. 
 
+At first I thought maybe I hadn't done enough research, so I started doing more. But the more I added, the worse it got.
+I thought maybe it was my writing, so I spent hours on new drafts. Eventually, I started to think this idea wasn't interesting at all. 
 
-
-People are rebelling against a future they do not want by going to the past.
-
-
-Maybe I also talk about how old things are time machines. By having access
-
-
-
-
-I need to pause our video here for a second to be transparent with you. I've been working on this script on and off for months. And so far, it's felt like I just can't make it work. I thought maybe I hadn't done enough research, so I started doing more. I thought the story wasn't interesting, so I spent hours writing new drafts. Eventually, I started to think this idea wasn't interesting at all. 
-
-Then one day, Jrnie brought home a cassette player. She had been at her grandmas house all day going through old dust covered boxes full of memories. And that reminded me of the old dust covered tapes that I had at my parents house sitting in my childhood dresser. 
+Then one day, Jrnie came home from visiting her grandma with a cassette player. They'd been going through old tapes. And that reminded me of the old dust covered tapes that I had at my parents house sitting in my childhood dresser. 
 
 So I went and got them. 
 
 When you start going through memories like this, you can never be too sure what you're going to find. 
 
-Past lives begin to unfold right in front of your eyes. 
-
 *Play a tape of Nana.*
-
-
 
 There are a lot of reasons people long for the past. 
 
-In my drive to find out why, I've been looking at it from a lot of different angles. I thought if I took an academic approach, if I looked at the history and the economics, I would find my answer. 
+In my journey to figure out what they are, I've tried to look at it from a bunch of different angles. I thought if I took an academic approach, if I looked at the history and the economics, I would find my answer. 
 
-And I wasn't wrong in that. But it's incomplete. 
+And I wasn't wrong in that. I learned a lot about why people care about these things. But it's incomplete. 
+
+This all started because I wanted to know why old stuff is popular. But only a specific type of old stuff is popular. 
+If you go back too far, or not far enough, and it doesn't quite work. And when I really think about the goldilocks zone of what objects fit, it's the stuff from my childhood. 
 
 When I think about why I'm drawn to old things, it's not because trends or economic value or anything like that.
 
 It's because these things tell stories. Stories about me and where I came from. Stories about the people I love. Stories about people I have never and will never meet. 
+
+Stories about things we valued when we were young and curious and exploring the world for the first time. 
+
+Things the world no longer values.
+
+I think what we're really trying to do when we use an old film camera or decorate our house with decades old furniture is bring back a simpler time that we no longer have access to. It's a rebellion against a future we all feel coming and don't want. 
+
+And it's a way of honoring the magical objects that build the sets of our childhoods.
+
+They don't make em like they used to.
+
+
+
+
+
+
+# Shorts
+
+
+SFX Breakdown
+Title screen with nodes/timeline
+
+
+
+
+
+
+
+
+# Second Channel
+
+we have cooke anamorphics at home
+
+
+
+
+
+
+
+
 
 
 
@@ -353,6 +376,12 @@ This clinging to the past feels safe. It feels like home. I'm scared of the worl
 
 
 
+
+
+Old stuff is popular. But only a specific type of old. There's a goldilocks zone. 
+It's stuff that was part of our childhood. And in alignment with Rubbish theory, it's stuff from our childhood that the world no longer values.!!!!!
+
+Our desire to bring it back is almost a striving for a simpler time that we no longer have access to.
 
 
 

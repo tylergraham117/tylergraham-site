@@ -3,6 +3,7 @@ date: "[[2023-10-14]]"
 tags:
   - "#status/idea🌱"
   - status/essay📜
+publish: true
 ---
 # accept our visual environment as inevitable
 

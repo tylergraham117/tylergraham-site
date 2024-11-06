@@ -7,7 +7,7 @@ tags::
 
 In order to truly experience life, we have to pay attention to the world. Not just in the regular way, but really engage with it. 
 
-In the context of creativity, this is crucial, because [[creativity is the processes of creating connections]]. You can't possibly notice connections if you aren't pay enough attention. A great way to do this is to take notes on the world. After all, [[living a noteworthy life means living in a way worth taking notes on]]. 
+In the context of creativity, this is crucial, because [[creativity is the processes of creating connections]]. You can't possibly notice connections if you aren't paying attention. A great way to do this is to take notes on the world. After all, [[living a noteworthy life means living in a way worth taking notes on]]. 
 
 The value of taking physical notes is the disconnection from the internet. It allows you to pay better attention to the physical world around you. This is the [[value of analogue]]. 
 

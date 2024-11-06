@@ -11,28 +11,6 @@ publish: false
 
 
 
-### Summary
-
-
----
-
-### Main Ideas
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-
-### Tools
-1. 
-2. 
-3. 
-
-
 ---
 
 ### Chapters

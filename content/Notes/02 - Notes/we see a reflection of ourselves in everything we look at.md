@@ -22,4 +22,4 @@ The reflection of ourselves we see in the world around us isn't only something t
 
 
 
-source:: [[The Science of Storytelling (book)]]
+inspired by:: [[The Science of Storytelling (book)]]

@@ -1,23 +1,15 @@
-up:: [[Sources MOC]] - [[Story MOC]] 
-tags:: #source/book #on/story 
-dates:: 2022/11/04
-URL::  
-
-# The Science of Storytelling (book)
-[[Will Storr]]
-
-### Summary
-
-
-
+---
+date: 2022-11-04
+tags:
+  - source/book
+author:
+  - "[[Will Storr]]"
+released: 
+publish: true
 ---
 
-### Main Ideas
-1. 
 
-
-### Tools
-1. 
+# The Science of Storytelling (book)
 
 
 ---

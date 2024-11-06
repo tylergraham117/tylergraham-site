@@ -1,15 +1,17 @@
 ---
 date: 2021-10-10
 tags:
-  - "#source/book"
-up: "[[Sources MOC]]"
+  - source/book
 author:
+  - "[[Josh Waitzkin]]"
+released: 
+publish: true
 ---
-# The Art of Learning
-**[[Josh Waitzkin]]**
+
+# The Art of Learning (book)
 
 
-
+---
 
 ### Action Points
 - Avoid intuitive action. It's lazy and abstract. Make it precise and tangible, so that you can better communicate and grow. 

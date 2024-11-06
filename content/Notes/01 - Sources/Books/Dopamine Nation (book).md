@@ -1,7 +1,11 @@
-up:: [[Sources MOC]]
-tags:: #source/book 
-dates::
-URL::  
+---
+date: 
+tags:
+  - source/book
+author: 
+released: 
+publish: false
+---
 
 # Dopamine Nation (book)
 

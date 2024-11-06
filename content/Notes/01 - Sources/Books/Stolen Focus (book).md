@@ -1,44 +1,13 @@
 ---
 date: 2022-07-10
 tags:
-  - "#source/book"
-  - on/attention
-  - on/focus
-up: "[[Sources MOC]]"
-author: Johann Hari
+  - source/book
+author:
+  - Johann Hari
+released: 
+publish: true
 ---
-# Stolen Focus
-
-
-
-
-### Summary
-
-
----
-
-### Main Ideas
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-
-### Tools
-1. 
-2. 
-3. 
-
-
----
-
-### Chapters
-
-
+# Stolen Focus (book)
 
 
 ---
@@ -170,12 +139,9 @@ author: Johann Hari
 
 ##### Fourteen: Confinement of Children
 - Childhood autonomy has been diminished, resulting in lack of exploration.
-	- City design matters here
+	- City design matters here.
 - Play teaches meta-skills, like negotiation and coping with disappointment. 
-- 
 
 [Interviews From the Book](http://stolenfocusbook.com/audio/)
 
----
 
-### Notes on Writing

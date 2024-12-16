@@ -2,11 +2,11 @@
 date: 2023-12-30
 tags:
   - effort/video/main
-status: preproduction
-series: 
-due: 
-live: false
-sponsor: 
+status: published
+series:
+due: 2024-11-20
+live: true
+sponsor:
 up: "[[Personal YouTube Index]]"
 publish: false
 ---
@@ -14,16 +14,20 @@ publish: false
 
 
 
+
+
+
+
+
+
+
 ## Script
 
 #### Intro
 *INT. NIGHT*
-*Walk into locked off frame. Turn on light, lighting up my face.*
-*Grab a VCR from the mess on my desk. POV follow it to the TV. Put it in.*
+
 *Slow push in on CRT TV. Eventually, we enter the TV as it starts playing.*
-
-
-*(On the TV. Typing on a typewriter at my desk. This is the thumbnail shot.)* 
+*(On the TV. Typing on a typewriter at my desk.)* 
 You've probably already noticed, but old stuff is trendy.
 *As I say trendy, reset typewriter. On the bell, it cuts, but the word "VINTAGE?" stays on screen. Then we go into a sequence of showing old things that are popular.*
 
@@ -200,6 +204,7 @@ And an object can be worth a lot, and then slowly decline in importance until it
 But how?
 
 
+
 **To Camera**
 Over the past couple years, there has been a massive resurgence in the popularity of film.
 *Show film resurgence*
@@ -240,48 +245,41 @@ To go from basically trash to something everyone seems to care about?
 
 Let's talk about Rubbish Theory.
 
-Rubbish is something we pretty much ignore. It's discarded. 
-It lives outside of the concerns of people and economic theory. 
 
-But some objects, although pretty rarely, re-enter the value circulation as a prized possession.
 
-Here's how it happens.
-
-We can break objects up into 3 groups: transient, durable, and rubbish. 
+We can sort any object into one of three categories: transient, durable, and rubbish. 
 
 The value of a Transient object decreases with time. It's value is trending negative. This is most objects.
 
 The value of a Durable object increases with time. It's value is trending positive.
-The ownership of Durable objects is closely related to social status. So people want Durable objects.
+Owning Durable objects is usually tied to social status. So people want Durable objects.
 
 
-Rubbish is different. It has no value. It's value is 0, and it is not moving.
+Rubbish is different. It has no value. It's value is 0, and it is not moving up or down.
 
 
 But every once in a while we see an object go from a downward trend, from Transient, to a positive trend, Durable. 
 
-According to Rubbish Theory, the only way something can go from a negative trend to a positive one is by passing 0 first. For a Transient object to become a Durable, it must first become Rubbish.
-
-Remember the film example.
+According to Rubbish Theory, the only way something can go from a negative trend to a positive one is by passing 0 first. So, for a Transient object to become a Durable, it must first become Rubbish. Like the film example.
 
 Not just anything can make this move from Transient to Rubbish to Durable. 
 
 The Durable category is associated with status, so naturally it has some gate keepers. 
 
-Rubbish Theory calls these the "High Priests." They are the critics, the ones who decide what's in and what's out.
+Rubbish Theory calls these the "High Priests." They are the critics, the ones who like to decide what's in and what's out. 
+In our film example, these are like people who have always evangelized film, or the collectors, people that put it on some sort of pedestal and make things feel a bit out of reach. 
 
-The other archetypes of the theory are: 
-The Levelers: These are the people who flood the Durable category and diminish both status and power.
-The Losers Out: These people are squeezed out to the margins and are mostly unable to participate in this system. 
-And finally, the Individualists: These people do things how they want regardless of what other people think is valuable. 
+There are three other archetypes of the theory: 
 
-The Individualists tend to be the champions of Rubbish. They are the ones that move these objects into the Durables category.
+The first are The Levelers: These are the people who flood the Durable category and diminish the status that comes with it. For example, people that see using film as pretentious and unnecessary. 
 
+The next are The Losers Out: This archetype is people who are squeezed out to the margins and mostly unable to participate in this system. Think Kodak going bankrupt when digital took over.
 
+And finally, we have the Individualists: These are people who do things how they want regardless of what other people think is valuable. 
+The Individualists tend to be the champions of moving Rubbish into the Durables category. But they don't do that purposefully. It's usually a byproduct of them following a creative whim. 
 
 The types of people that are able to make the shift from Rubbish to Durable are representative of our culture's values. 
 Right now, we seem at least partially to be valuing people who find importance in reusing old things, in not wasting, in vintage.
-
 
 I like to think of the Individualists as the artists. 
 

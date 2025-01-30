@@ -1,8 +1,9 @@
 ---
-date: '[[2024-06-11]]'
+date: 2024-12-27
 tags:
   - status/scratch📝
   - status/boat🚤
+publish: false
 ---
-# system 1 and system 2 thinking
+# world building
 

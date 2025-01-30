@@ -1,7 +1,6 @@
 ---
-date: '[[2024-06-15]]'
+date: "[[2024-06-15]]"
 tags:
-  - status/scratch📝
   - status/boat🚤
 ---
 # double-entry accounting

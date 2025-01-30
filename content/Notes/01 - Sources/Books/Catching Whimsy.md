@@ -22,3 +22,5 @@ The parable of the lost son follows the parable of the lost sheep and the lost c
 
 [[Make it so that people start assuming every conversation with you will leave them feeling acknowledged and cared for.]] p404
 
+[[Expectation is how you hope things will turn out. Anticipation is different. It is for people whose resting position is leaning forward.]] Anticipation doesn't just look around the corner; it looks well over the horizon. p407
+

@@ -8,8 +8,20 @@ publish: false
 # harp lessons
 
 
+
+
+## Lesson 4
+Playing with thumb.
+Learned to play triads.
+Learned to play two hands at once. 
+
+
 ## Lesson 3
-- 
+Bruner Book 1  
+Playing C's, D's and B's.  
+Reading the music staff  
+Relaxation technique for arms
+Scale in thirds.
 
 ## Lesson 2
 - Up to D lite in book

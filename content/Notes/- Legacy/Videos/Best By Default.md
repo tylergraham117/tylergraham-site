@@ -25,7 +25,7 @@ The idea here is to talk about putting yourself in a category of one. Combine al
 
 ### Notes
 
-Bloomsberg is the only real town in Pennsylvania. If we make ourselves the only version of what we are, then we're the best by default.
+Bloomsburg is the only real town in Pennsylvania. If we make ourselves the only version of what we are, then we're the best by default.
 
 https://www.bloomsburgpa.org/
 https://en.wikipedia.org/wiki/Bloomsburg,_Pennsylvania

@@ -1,11 +1,12 @@
 ---
-date: 2024-10-03
 tags:
-  - status/scratch📝
-  - status/boat🚤
+  - index
+cssclasses: 
+obsidianUIMode: preview
 publish: false
 ---
 # houdini
+
 
 
 ## Nodes

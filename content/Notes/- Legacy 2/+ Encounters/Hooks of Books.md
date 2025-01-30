@@ -31,5 +31,7 @@ There are two great mysteries in this life. (Pete Holmes, [[Comedy Sex God (book
 
 We know how this ends. You're going to die and so will everyone you love. And then there will be heat death. All the change in the universe will cease, the stars will die, there'll be nothing left but infinite, dead, freezing void. Human life, in all its noise and hubris, will be rendered meaningless for eternity. But that's not how we live our lives ([[Will Storr]], [[The Science of Storytelling (book)]])
 
+Surely I must be dreaming. It is as if I were fifteen again. I am back at school. My mind is on my geometry problem. Leaning over the worn black desk, I work away dutifully with compass and ruler and protractor. I am quiet and industrious. (Goes on to "Schooldays are over. Life has begun.") ([[Flight to Arras (book)]])
+
 
 

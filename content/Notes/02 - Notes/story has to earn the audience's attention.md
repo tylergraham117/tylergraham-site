@@ -2,7 +2,7 @@
 date: 2024-06-19
 tags:
   - status/miniessay📓
-publish: false
+publish: true
 ---
 # story has to earn the audience's attention
 

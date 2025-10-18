@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - tags.contains("effort/video/short")
+        - file.folder != "05 - Extras/Templates"
+  - type: cards
+    name: View
+    filters:
+      and:
+        - tags.contains("effort/video/short")

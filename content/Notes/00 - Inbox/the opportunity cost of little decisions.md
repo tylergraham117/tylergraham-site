@@ -13,7 +13,7 @@ How do we cope with the fact that [[you can do anything, but you can't do everyt
 
 
 When you decide to do something, you're deciding that this thing is worth the time it takes to do that thing. 
-You may be deciding that consciously or unconsciously, but it is a decision you're making at the end of the day.
+You may be deciding that consciously or unconsciously, but it is a decision you're making.
 
 When we make decisions on what is worth our time and what isn't, it's important to consider what we're getting out of that trade.
 
@@ -22,9 +22,10 @@ How do we make that value judgment?
 I guess it starts with considering what we value in the first place ([[living our values]], [[clearly defined values]]).
 *How do we define what we value?*
 
-I think, especially for those of us living in the western world, our inclination is to value productiveness. That is, how much are we getting out our time in a way that is contributes to the greater economic machine?
+I think, for lots of us, our inclination is to value productiveness. That is, how much are we getting out our time in a way that contributes to a greater goal?
 
-The problem with this line of thinking is that it's framing requires us to do things for a result. I know for me personally, this has often lead to a real sense of guilt surrounding free time, leisure, and rest. 
+The problem with this line of thinking is that the framing requires us to do things for a result. I know for me personally, this has often lead to a real sense of guilt surrounding free time, leisure, and rest. 
+The problem with this line of thinking often disincentivizes things like rest and free time, which are ironically the things that lead to more productive outcomes in the long run.
 
 This is even more conflicting because I generally think of myself as someone who enjoys doing things. I like to create things, digitally and physically. I like learning new skills. And I feel like I'm really fulfilled by these acts. But I also wonder if some of that isn't a result of this productivity mindset within the environment I've grown up in.
 

@@ -1,10 +1,7 @@
 ---
-cssclasses:
-  - dashboard
 obsidianUIMode: preview
 AutoNoteMover: disable
 ---
-
 
 # Home 🌎
 

@@ -3,12 +3,13 @@ date: 2024-12-16
 tags:
   - effort/video/main
 status: idea
-series: 
-due: 
+series:
+due:
 live: false
-sponsor: 
+sponsor:
 up: "[[Personal YouTube Index]]"
 publish: false
+type: play
 ---
 # for those of us sleepwalking through life
 

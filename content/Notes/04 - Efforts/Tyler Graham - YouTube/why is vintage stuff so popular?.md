@@ -9,6 +9,7 @@ live: true
 sponsor:
 up: "[[Personal YouTube Index]]"
 publish: false
+type: play
 ---
 # why is vintage stuff so popular?
 

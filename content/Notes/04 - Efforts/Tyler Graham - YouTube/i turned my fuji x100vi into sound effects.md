@@ -2,18 +2,34 @@
 date: 2024-12-29
 tags:
   - effort/video/main
+  - content/process
 status: idea
-series: 
-due: 
+type: process
+series:
+due:
 live: false
-sponsor: 
+sponsor:
 up: "[[Personal YouTube Index]]"
 publish: false
 ---
 # how to make your own sound effects for video
 
+#content/process
 
 sound designing a video with objects i already own
+
+
+Title inspo:
+- 3 Sound Design Secrets That Feel Like CHEATING
+- How To Sound Design ANYTHING.
+- How To Sound Design
+- Sound Design for Cinematic Filmmaking | My Process
+
+Title options:
+- how to sound design with ANYTHING
+- turn ANYTHING into sound design
+- 
+
 
 
 
@@ -52,6 +68,109 @@ And hopefully by the end of it, we have a well designed soundscape and, more imp
 Now we're obviously going to need some sort of visual to sound design, so let's just redo the intro to this video. 
 *Maybe switch this*
 To get started, let's take the intro to this video and rebuild its sound design, this time using only sounds we record ourselves.
+
+
+
+
+Step one: record the sounds
+
+First things first is recording the sound effects, and I want to experiment with some different ways of recording them.
+
+The first of those was just recording with my phones voice notes.
+
+Second, I wanted to try two different professional microphones.
+
+Finally, I used something called a contact mic. I'd never used one of these before but it's really cool. Most microphones pick up on vibrations in the air, but these pick up on vibrations in solid objects so you get these really unique sounds.
+
+
+
+
+
+
+Step two: Separate all the sounds into files
+Process all the sounds into files - Show it in Resolve and Logic
+
+Now I needed to separate all the sounds out into audio files. There are a couple ways to do this.
+
+
+
+
+
+Step three: Sound design
+
+Mention needing to list out the necessary sounds
+- Clicks
+- Riser
+- Whoosh
+- Impacts
+- Electric buzzing
+
+Start with the easy ones, clicks.
+
+Whooshes and stuff might need synths.
+
+
+
+Maybe I end off by sending the video to Sky along with the SFX?
+
+
+
+
+
+
+## Shorts
+
+
+### Short 1
+[[turning a camera into a sfx pack (short)]]
+Here's how I turned this (camera) into all of this (sfx).
+
+I started with recording as many sounds as I could think of with a bunch of different microphones. 
+Then I cut them up into separate files and got to work processing them.
+
+Getting the clicks to sound good was easy, because they already do. 
+But making the whooshes and other more complex sounds involved using a synthesizer called Phase Plant. I used the granular module to isolate and repeat certain parts of my sounds, and then added some pretty aggressive effects to shape them into what I wanted.
+
+All of that left me with an entire pack of sound effects all created from my camera, completely unique to me and ready to use on any project.
+
+The whole process is on my channel, and the sounds are available for download. 
+
+How do you think it turned out?
+
+
+### Short 2
+[[fuji sfx background story]] - idk if this is anything
+A while back, I saw a comment between a couple of my favorite creators talking about creating a sound effects pack from a camera. I never saw that happen, so I decided to take matters into my own hands. 
+I recorded hundreds of clicks and processed the heck out of them until I had what I needed. 
+
+
+
+
+### Short 3
+[[recording with a contact mic (short)]]
+You might be wondering why I have my Fuji hooked up like it's on life support. 
+
+This is a contact mic. 
+
+Most microphones work by picking up on vibrations in the air. These pick up on vibrations in solid objects. 
+
+So when I make a sound on the camera...
+
+
+### Short 4
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 
 
@@ -248,6 +367,17 @@ Dedicated DAW
 
 
 
+Let's just do 3 levels.
+
+#### Level 1
+Recording and using sounds from a phone.
+
+
+#### Level 2
+Pro mic. Placing those sounds, doing some light processing via resolve.
+
+
+#### Level 3
 
 
 

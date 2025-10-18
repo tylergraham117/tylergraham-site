@@ -60,7 +60,7 @@ author: "[[Beau Miles]]"
 
 [[Such a breakthrough in thinking is to acknowledge that I have a uniqueness born of influences.]]
 
-[[You come to rely on gadgets and digital numbers like grease on lips and milk on cereal, and I don't like the feeling when the batteries die, as if you've lost part of your brain.]]
+[[You come to rely on gadgets and digital numbers like grease on lips and milk on cereal, and I don't like the feeling when the batteries die, as if you've lost part of your brain.]] (2)
 
 
 
